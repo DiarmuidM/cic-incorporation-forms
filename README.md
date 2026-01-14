@@ -2,6 +2,8 @@
 
 A Python pipeline for extracting structured data from UK Community Interest Company (CIC) incorporation documents (CIC 36 forms).
 
+> **Beta Version**: This pipeline is under active development. Features, output formats, and APIs may change. Feedback and contributions are welcome.
+
 ## Overview
 
 Community Interest Companies (CICs) are the primary legal form for social enterprises in the UK. This pipeline extracts key information from CIC 36 incorporation forms filed with Companies House, specifically:
