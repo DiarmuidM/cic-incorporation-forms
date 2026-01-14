@@ -1,0 +1,79 @@
+{
+  "company_number": "10442932",
+  "incorporation_date": null,
+  "document_type": "scanned",
+  "extraction_status": "success",
+  "section_a": {
+    "beneficiaries": "young people by offering bespoke educational packages to enhance knowledge and understanding around the subject of sex and relationships. Some schools take Sex and Relationship Education very serrously and really develop awareness in the subject, but other schools only touch on the basics and young people are lacking in the skills to develop good healthy relationships. Inspiring Healthy Choices can offer schools and other organisations that do not have the resources to deliver sex and relationship education the opportunity to make sure young people have ail the knowledge they need to help them make the best choices"
+  },
+  "section_b": {
+    "activities": [
+      {
+        "activity": "people around the subject of Sex and Relationship The internet tells our children so much that they don't often Education understand or yet need to know, and with this in mind we want to educate young people with the facts, but do this in a Safe, open minded environment where they are free to ask questions without fear of embarrassment or shame. It ts our ambition to give every pupil the confidence to develop good, healthy relationships in their futures, regardless (but sensitive) of culture, background, beliefs and sexual orientation.",
+        "description": ""
+      }
+    ],
+    "company_differs": "",
+    "surplus_use": "reinvestment in the company and sponsoring selected projects."
+  },
+  "extraction_metadata": {
+    "source_file": "10442932.pdf",
+    "cic36_page": null,
+    "cic36_pages_found": [],
+    "location_confidence": "low",
+    "extraction_method": "ocr_pytesseract_layout",
+    "pages_searched": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49,
+      50,
+      51,
+      52,
+      53,
+      54,
+      55,
+      56,
+      57,
+      58,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34
+    ],
+    "extracted_at": "2026-01-14T17:54:34.863113Z",
+    "document_page_count": 58,
+    "avg_chars_per_page": 0.0,
+    "ocr_confidence": "medium",
+    "processing_time": 151.524
+  }
+}

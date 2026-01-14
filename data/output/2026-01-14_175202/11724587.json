@@ -1,0 +1,79 @@
+{
+  "company_number": "11724587",
+  "incorporation_date": null,
+  "document_type": "scanned",
+  "extraction_status": "success",
+  "section_a": {
+    "beneficiaries": ""
+  },
+  "section_b": {
+    "activities": [
+      {
+        "activity": "To work with and support businesses and individuals through collaborative documentary photography and film projects, creating publications, exhibitions and events that aim to showcase and support the work and activities of these groups to a transferable skiils through participation within these projects. Providing accessible services, events, exhibitions and talks, as informal independent educators within documentary photography, film and design and the surrounding concepts and themes, focused an promoting positivity within and for communities, raising awareness of local and global issues. By introducing and embedding documentary photographers and groups, local business and individuals; promoting and raising awareness of the issues, the activities and work of these groups to a wider public audience through; publications, films, public exhibitions and events for the final outcome that will act as cammunity itself. We provide a diverse range of accessible services aimed to support individuals to create and support their local and wider communities through photography, film and design, web applications and resources with public events which include, talks, exhibitions and an independent arts educational platform with workshops, lectures Providing careers opportunities for volunteer work within our opportunities for those wishing to enter and experience photography, film and design.",
+        "description": "community groups, local wider community, whilst offering film makers to work closely and collaboratively within community awareness raising and community promotion for and by the and support groups interlinking the arts with community groups. events, networking within the arts and community projects and"
+      }
+    ],
+    "company_differs": "",
+    "surplus_use": "Any surplus will be re-invested into the CIC for the benefit of young people and adults. This could include, but not exclusive to; resources, staff development, project development, local workshop spaces, service and accessible public tools and accreditation for young people accessing the services."
+  },
+  "extraction_metadata": {
+    "source_file": "11724587.pdf",
+    "cic36_page": null,
+    "cic36_pages_found": [],
+    "location_confidence": "low",
+    "extraction_method": "ocr_pytesseract_layout",
+    "pages_searched": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49,
+      50,
+      51,
+      52,
+      53,
+      54,
+      55,
+      56,
+      57,
+      58,
+      59,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34
+    ],
+    "extracted_at": "2026-01-14T17:57:10.451465Z",
+    "document_page_count": 59,
+    "avg_chars_per_page": 0.0,
+    "ocr_confidence": "medium",
+    "processing_time": 160.406
+  }
+}

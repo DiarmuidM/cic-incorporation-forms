@@ -1,0 +1,79 @@
+{
+  "company_number": "08779662",
+  "incorporation_date": null,
+  "document_type": "scanned",
+  "extraction_status": "success",
+  "section_a": {
+    "beneficiaries": "Lr The company’s activities will provide benefit to ... Anyone who has an interest in Focusing or is a Focusing teacher or practitioner. The objective of the Company ts to further the development of Focusing in the United Kingdom. Focusing 's a tool for self-awareness and self-development originally developed by philosopher and psychotherapist Eugene Gendlin. The skills can be taught to anyone who has an interest in learning them and can be of benefit in almost any sphere of activity. The company aims to make Focusing more widely accessible to the community as a whole"
+  },
+  "section_b": {
+    "activities": [
+      {
+        "activity": "British To publicise Focusing to the We will increase wider community approach which website as a the general through our Focusing which can be accessed We hold events Focusing - If the company makes any surplus it will be used Improving support to Focusing Teacher's and Focusing and our bank of Focusing resources (Please continue",
+        "description": "— We will website to publicise Focusing courses members, facilitate a peer support network annual gathering to support Focusing teachers Knowledge and awareness of Focusing as an people have found beneficial. We maintain a source of information on Focusing available to public. We respond to requests for information website. We distribute an e-newsletter on ts freely available to the general public and through our website. which are open to all those with an interest in currently we do this every 2 or 3 years. for Practioners and improving the publicity about and information. on separate sheet if necessary.) |"
+      }
+    ],
+    "company_differs": "",
+    "surplus_use": "Improving support to Focusing Teacher's and Practioners and improving the publicity about Focusing and our bank of Focusing resources and information."
+  },
+  "extraction_metadata": {
+    "source_file": "08779662.pdf",
+    "cic36_page": null,
+    "cic36_pages_found": [],
+    "location_confidence": "low",
+    "extraction_method": "ocr_pytesseract_layout",
+    "pages_searched": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49,
+      50,
+      51,
+      52,
+      53,
+      54,
+      55,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34
+    ],
+    "extracted_at": "2026-01-14T18:01:03.285832Z",
+    "document_page_count": 55,
+    "avg_chars_per_page": 0.0,
+    "ocr_confidence": "medium",
+    "processing_time": 172.646
+  }
+}

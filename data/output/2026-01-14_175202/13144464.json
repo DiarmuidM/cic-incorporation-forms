@@ -1,0 +1,66 @@
+{
+  "company_number": "13144464",
+  "incorporation_date": null,
+  "document_type": "scanned",
+  "extraction_status": "success",
+  "section_a": {
+    "beneficiaries": "All people of all ages involved in archacology and cultural heritage activities, through practice, employment, study or general interest"
+  },
+  "section_b": {
+    "activities": [
+      {
+        "activity": "COMPANY REAC ACH NAME Comparative statistical | and individual surveys Advocacy, Action and The community Promotion of new devising and strategies , | for people, that i | | diverse places | Cultural heritage | { | If the company makes any surplus it will be used (Please continue",
+        "description": "EQUALITY C.1.C — .) ee and abilities will benefit through our work in researching for instances of social inequality (including but not - sexuality and disability discrimination) i across the : heritage. These include but are not restricted to the and historical research, archaeological and : archaeological and historical practice, and include people who may be students, staff, volunteers or public engaging in cultural heritage activities. Research but are not restricted to, gender statistical research and promotion in different fields, in addition to studies on similar disciplines in the UK and gicbally, on experience in the sectors. will benefit from our research-based work in promoting new ways to equalise opportunities will increase socially representative and ! to work, study and volunteer the : across : sectors. for further development of its activities core on separate sheet if necessary.)"
+      }
+    ],
+    "company_differs": "",
+    "surplus_use": "further development of its core activities | } | Saensanoeaano losartan"
+  },
+  "extraction_metadata": {
+    "source_file": "13144464.pdf",
+    "cic36_page": null,
+    "cic36_pages_found": [],
+    "location_confidence": "low",
+    "extraction_method": "ocr_pytesseract_layout",
+    "pages_searched": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33
+    ],
+    "extracted_at": "2026-01-14T18:14:47.212014Z",
+    "document_page_count": 33,
+    "avg_chars_per_page": 0.0,
+    "ocr_confidence": "medium",
+    "processing_time": 102.638
+  }
+}

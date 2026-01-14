@@ -1,0 +1,77 @@
+{
+  "company_number": "12032809",
+  "incorporation_date": null,
+  "document_type": "scanned",
+  "extraction_status": "success",
+  "section_a": {
+    "beneficiaries": "the community in the Whale Bridge area and in particular (without limitation) to increase the resilience of the community to the effects of climate change and assist in the transitions to a low carbon economy"
+  },
+  "section_b": {
+    "activities": [
+      {
+        "activity": "ACCHIMATISE\niif the company makes any surplus it will be used a re (Please continue",
+        "description": "WHALEY CLG. — .) want to work to increase the resilience of our effects of climate change by promoting and that help move us a low carbon economy. this through communication, education and the community in the richness of ongoing and new the Whaley Bridge area a great place to live. Our are to learn together about what we can to increase sharing of resources and consumption of food, to reduce our carbon footprint and to generate our renewable energy. not established or conducted for private gain; any from wading, or assets will be used principally for community. activities will be funded from successful social applications as well as from donations from members subscriptions. Projects and activities will be resourced from within the Whaley Bridge community who will members of the company. Version $ «Last Updated on 04/04: 2019\nfor...the benefit of the community. | | _| TT — = on separate sheet if necessary.) Last Undated on"
+      }
+    ],
+    "company_differs": "",
+    "surplus_use": "the benefit of the community."
+  },
+  "extraction_metadata": {
+    "source_file": "12032809.pdf",
+    "cic36_page": null,
+    "cic36_pages_found": [],
+    "location_confidence": "low",
+    "extraction_method": "ocr_pytesseract_layout",
+    "pages_searched": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34
+    ],
+    "extracted_at": "2026-01-14T18:04:46.675415Z",
+    "document_page_count": 44,
+    "avg_chars_per_page": 0.0,
+    "ocr_confidence": "medium",
+    "processing_time": 133.486
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "company_number": "11413024",
+  "incorporation_date": null,
+  "document_type": "scanned",
+  "extraction_status": "error",
+  "section_a": {
+    "beneficiaries": ""
+  },
+  "section_b": {
+    "activities": [],
+    "company_differs": "",
+    "surplus_use": ""
+  },
+  "extraction_metadata": {
+    "source_file": "11413024.pdf",
+    "cic36_page": null,
+    "cic36_pages_found": [],
+    "location_confidence": "low",
+    "extraction_method": "ocr_pytesseract_layout",
+    "pages_searched": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49,
+      50,
+      51
+    ],
+    "extracted_at": "2026-01-14T18:18:35.007940Z",
+    "document_page_count": 55,
+    "avg_chars_per_page": 0.0,
+    "error": "Wrong section detected - IN01 form content detected",
+    "ocr_confidence": "unknown",
+    "processing_time": 107.168
+  }
+}

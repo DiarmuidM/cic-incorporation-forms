@@ -1,0 +1,79 @@
+{
+  "company_number": "12286064",
+  "incorporation_date": null,
+  "document_type": "scanned",
+  "extraction_status": "success",
+  "section_a": {
+    "beneficiaries": "Fr The company’s activities will provide benefit to ... , The allotment plot holders, their immediate family and friends and the wider | Narborough and Littlethorpe village communities wherever possible. Plots are | allocated on application via a waiting list. The only qualification is residence in | the local community. Plot holders currently are a diverse community of young | and old, male and female and include members of the BAME community. { | We are a well established allotment site run on a self-managed basis by | agreement with the local parish council. We are currently set up as an i i | association with a management committee of elected officers and other plot | holders willing to give their time, | Other than annual rent received from the plot holders and fund raising social | activities we have no source of income and are reliant on grants to develop and maintain the allotment site. We do not receive any funding from the parish council. We have been successful in the past in securing funding for various specific projects including security fencing. We have now obtained a grant from the National Lottery of £22,834, for the purchase and erection of a new site cabin to be used by all plot holders and other visitors. However this grant is conditional on our association becoming a CIC in order to establish the asset lock they require. Our intention is secure future grants and other funding to develop and improve | the site further and increase its usage and cultivation. Our status as a CIC would | enhance our ability to achieve such funding. Every aspect of maintenance and upkeep of the site is carried out by volunteers from amongst the plot holders and their family/friends. It is important that we have a solid organisational foundation going forward in order to attract new blood onto the site and onto the management committee/directorship"
+  },
+  "section_b": {
+    "activities": [
+      {
+        "activity": "It think | Activities i How (Tell here what the | us company | Provide a cabin facility | new Lon the allotment | The cabin : | and | Various | Social and : | Provision ; | matters. Educational given | Development of the allotment | site along with maintenance | We currently j | and upkeep. numbers vacant. cope with In addition | for complete plot, who | | We would | : possible. ! Narborough | Leicestershire : ‘ accessible | company makes any If the | Development and maintenance of the site. | | (Please",
+        "description": "& Littlethorpe Statement — ) : | — will be used for refreshment breaks for plot holders family/friends whilst working the plots. meetings will be held in the cabin fund raising activities. of a library of books and magazines on horticultural resource for local schools when guided tours are have 63 plots but we are increasing the : by reducing the size of certain plots as they become This is in order to increase the availability of plots to; demand. : we are creating a number of smaller plots suitable beginners who may fee! daunted by a fullsize may later move to a larger plot. : look to improve access to and on the site where The allotment site is currently adjacent to Bog a site of Special Scientific Interest run by and Rutland Wildlife Trust and is only i by gravel road willbeusedfor.. = = = continue on separate sheet if necessary.)"
+      }
+    ],
+    "company_differs": "",
+    "surplus_use": "Development and maintenance of the site."
+  },
+  "extraction_metadata": {
+    "source_file": "12286064.pdf",
+    "cic36_page": null,
+    "cic36_pages_found": [],
+    "location_confidence": "low",
+    "extraction_method": "ocr_pytesseract_layout",
+    "pages_searched": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34
+    ],
+    "extracted_at": "2026-01-14T17:58:51.171395Z",
+    "document_page_count": 48,
+    "avg_chars_per_page": 0.0,
+    "ocr_confidence": "medium",
+    "processing_time": 148.488
+  }
+}

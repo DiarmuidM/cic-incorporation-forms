@@ -1,0 +1,73 @@
+{
+  "company_number": "08938961",
+  "incorporation_date": null,
+  "document_type": "scanned",
+  "extraction_status": "success",
+  "section_a": {
+    "beneficiaries": "r"
+  },
+  "section_b": {
+    "activities": [
+      {
+        "activity": "a 2 The management involve working brainstorming, the business proposals and business/projects 3 Our activities aiming at boosting If the company makes any surplus it will be used We hope to generate a surplus from trading. business. Po ari primis (Please continue",
+        "description": "CIC — 1s no such service for start-ups which ts a requirement for every business wishing to receive evidence based sales feedback have the hot products or services they need to fully launch their ! they new ventures. receive advice what they can do to improve sales. for profitable ventures for our members. and or build our own channels to test sell products and services from which we can evidence based sales feedback and or advice how of the proposed sales channels will with start-ups as the main collaborators, volunteering, mentoring and drilling through processes of market research, business applications for business finance writing and management. will be creative, inclusive and innovative local economies. for. . We expect that this will ail be reinvested in the on separate sheet if necessary )"
+      }
+    ],
+    "company_differs": "",
+    "surplus_use": "We hope to generate a surplus from trading. We expect that this will all be reinvested in the business. “Jl2 25"
+  },
+  "extraction_metadata": {
+    "source_file": "08938961.pdf",
+    "cic36_page": null,
+    "cic36_pages_found": [],
+    "location_confidence": "low",
+    "extraction_method": "ocr_pytesseract_layout",
+    "pages_searched": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34
+    ],
+    "extracted_at": "2026-01-14T18:06:21.989858Z",
+    "document_page_count": 40,
+    "avg_chars_per_page": 0.0,
+    "ocr_confidence": "medium",
+    "processing_time": 136.655
+  }
+}

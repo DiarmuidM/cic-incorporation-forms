@@ -1,0 +1,79 @@
+{
+  "company_number": "08900672",
+  "incorporation_date": null,
+  "document_type": "scanned",
+  "extraction_status": "success",
+  "section_a": {
+    "beneficiaries": "Loca Community GROufS AND MEMBERS OF THE WIDER Commuyity ESPECiAll/, But NOT Limite? TO, REGIONS WITHIN THE Crer Miptanvs, Our Core Wokle Witt. FOCUS ON ARCHREOLOGT, LOCAL. HiSTOR?S AND THE ART"
+  },
+  "section_b": {
+    "activities": [
+      {
+        "activity": "INVOLNE — COMMUNITIES TO SURAT | OURS. BELOME — Glow — CRETE THAT If the company makes any surplus it will be THE OF FURTHER Community (Please continue",
+        "description": "HERITAGE CIC — VRECTLY TO LOCAL TOURISM, VAIELOPMENT, LEARNING SEILLS AND PRACTICES ARE NOT AVAILABLE SKILLS USE TO HEP | THES CAS THEN THe (OTENTIPL Fok AcTIVE | | CAN HELP OAFEQUARD LOCAL HERITAGE. used for... oR TRAINING As PRosectS. on separate sheet if necessary.)"
+      }
+    ],
+    "company_differs": "",
+    "surplus_use": "THE PROUGION OF FURTHER TRAINING ANY/OR Community PRosects."
+  },
+  "extraction_metadata": {
+    "source_file": "08900672.pdf",
+    "cic36_page": null,
+    "cic36_pages_found": [],
+    "location_confidence": "low",
+    "extraction_method": "ocr_pytesseract_layout",
+    "pages_searched": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34
+    ],
+    "extracted_at": "2026-01-14T17:58:10.640137Z",
+    "document_page_count": 48,
+    "avg_chars_per_page": 0.0,
+    "ocr_confidence": "medium",
+    "processing_time": 168.656
+  }
+}

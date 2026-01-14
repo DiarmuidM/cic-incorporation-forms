@@ -1,0 +1,66 @@
+{
+  "company_number": "13035768",
+  "incorporation_date": null,
+  "document_type": "scanned",
+  "extraction_status": "success",
+  "section_a": {
+    "beneficiaries": "secondary school age students and youths who wish to engage with paid part-time employment. These people will benefit by: Receiving support, mentoring and coaching to prepare them for part time paid employment Support youths in the application of suitable roles Helping them understand their strengths and how they can be applied in the workplace Engaging in meaningful and projects that will benefit an employer Helping them understand business strategy, operations, sales, marketing, IT, finance, recruitment, fundraising and the creative process Receiving a wage in return for their contribution Learning Entrepreneurial skills Learn employability, time management, financial literacy, technology and life skills Learning about and creating savings"
+  },
+  "section_b": {
+    "activities": [
+      {
+        "activity": "part time employment Work related training, Education and coaching and support. employment employment Recruitment and Placement Finding interesting, placements for then helping This will help of the community. Other companies services to the working with. If the company makes any surplus it will be company, to the benefit of the community. (Please continue",
+        "description": "TRAINING — .) mentoring to help the community prepare for employment. Commercial companies do not activities to the community that Anza is training to help the community access opportunities, and provide support during their as they deliver projects. relevant and suitable projects and the community of your people to work on, them carry out the projects to completion. increase confidence, self esteem and life skills do not provide recruitment and placement age group that the Anza community will be used for furtherance of the objects of the on separate sheet if necessary.)"
+      }
+    ],
+    "company_differs": "",
+    "surplus_use": "furtherance of the objects of the company, to the benefit of the community."
+  },
+  "extraction_metadata": {
+    "source_file": "13035768.pdf",
+    "cic36_page": null,
+    "cic36_pages_found": [],
+    "location_confidence": "low",
+    "extraction_method": "ocr_pytesseract_layout",
+    "pages_searched": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33
+    ],
+    "extracted_at": "2026-01-14T18:01:17.674319Z",
+    "document_page_count": 33,
+    "avg_chars_per_page": 0.0,
+    "ocr_confidence": "medium",
+    "processing_time": 105.908
+  }
+}

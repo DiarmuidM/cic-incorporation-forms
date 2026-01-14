@@ -1,0 +1,57 @@
+{
+  "company_number": "15445155",
+  "incorporation_date": null,
+  "document_type": "hybrid",
+  "extraction_status": "success",
+  "section_a": {
+    "beneficiaries": "Tha company’s activities will provide benefit to... e Undertow CIC provides creative sessions using storytelling to support mental health, wellbeing and recovery to vulnerable groups in the community. e Undertow CiC is for vulnerable groups within communities. We exist to assist in the processing of trauma. Potential users of Undertow could be but are not limited to; refugees and asylum seekers, looked after children, homeless, LGBTQIA+ and ethnic minority groups. e The value proposition of our offering comes in the deep history and working experience of our founder who has both an academic grounding in the tools as well as 10 years experience of practice building safe places and catharsis for participants. Since 2012 Dr Kat Lewis has worked with groups across the country and all over the world as a freelance practitioner. Kent has been her home for four years and she has consciously chosen to set up her business here where the community can benefit broadly from her services. e Squeezed between London and the English channel and housing some of the most poverty stricken native Brits, Kent is particular in it’s community needs and Undertow is particularly skilled in assisting to address these"
+  },
+  "section_b": {
+    "activities": [
+      {
+        "activity": "empower nurtures mental all our participants community. Anthology curation It is often the work from As Undertow independently community by empathy within contributors credit for each Version\nStory collaboration and Undertow will editing and more produce longer curation, the act of empathy once, again, then better attitude with Mentoring Our mentoring community. ahead of them will bolster the neighbours. well as If the company makes any surplus, it will be include the wording ‘with the consent of the CEC Regulator’) supporting mental health, wellbeing and (Please continue Version",
+        "description": "— On a community level, these supportive groups for people who share life On an individual level, Undertow aspires to people to take ownership of their story which health and wellbeing. This support enables to contribute positively to their wider case that a series of workshops might produce participants that can be published in an anthology. grows, it will also be an aim to support others producing anthologies within the local commissioning essays. These books promote the community, comradery among the and a sense of pride as well as a publishing storyteller. 7- Last Updated on 22/08/2023\noffer editing services, including proof reading comprehensive support to those who are looking to form manuscripts. As with the anthology key contribution to the wider community is the that making stories available creates. And we will work to empower individuals who are able to do more or simply share a positive others around them. programme will create networks within the Introducing people to those who are one step in their recovery or process or writing journey, goodwill and open up a dialogue between Together we will rise in our personal growth as professional development. used for. (Uf donating or fundraising for charities, please . recovery for vulnerable groups in the community. Ss separate sheet if necessary. ) 7- Last Updated on 22:08: 2023"
+      }
+    ],
+    "company_differs": "",
+    "surplus_use": "it will be used for...  supporting mental health, wellbeing and recovery for vulnerable groups in the community."
+  },
+  "extraction_metadata": {
+    "source_file": "15445155.pdf",
+    "cic36_page": null,
+    "cic36_pages_found": [],
+    "location_confidence": "low",
+    "extraction_method": "ocr_pytesseract_layout",
+    "pages_searched": [
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36
+    ],
+    "extracted_at": "2026-01-14T17:53:37.296991Z",
+    "document_page_count": 36,
+    "avg_chars_per_page": 95.19,
+    "processing_time": 93.943
+  }
+}

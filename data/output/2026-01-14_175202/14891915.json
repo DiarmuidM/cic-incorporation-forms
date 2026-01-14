@@ -1,0 +1,57 @@
+{
+  "company_number": "14891915",
+  "incorporation_date": null,
+  "document_type": "hybrid",
+  "extraction_status": "success",
+  "section_a": {
+    "beneficiaries": "Amateurs new to the arts, particularly those from vulnerable or excluded communities in the UK, including, but not limited to the Armed Forces, BAME, LGBTQI+ and trans, and disability communities, the homeless and women’s groups. We define a community as vulnerable and excluded if its members are more vulnerable than those in mainstream society and/or who face greater risk of exclusion, aS a consequence of belonging to that community"
+  },
+  "section_b": {
+    "activities": [
+      {
+        "activity": "The STARTS Award promotes new/unknown amateur talent and highlights the power of the arts to enhance wellbeing. It's a competition (currently) with 2 categories - Visual Art (painting and drawing) - Spoken Word (monologues in verse or prose, and short stories) There will be up to 5 winners chosen in each by a judging panel of experts. The winners will receive professional creative tuition/guidance, followed by a platform to show and share work to a wider audience in an authentic creative venue. Initially, the competition will be run for the military community, but will then be expanded over time to a wider range of disadvantaged and vulnerable communities.\nIf the company makes any surplus it will be number of free services, or to subsidise existing (Please continue",
+        "description": "STARTS AWARD — .) Version 5 - Last cc.\nResearch strongly supports the theory that being creative can enhance your wellbeing and mental health. The arts can have a massively positive impact on people’s wellbeing and mental health, particularly those from vulnerable and disadvantaged communities who have most to gain. All entries will be accompanied by a short personal | statement that describes how creativity has had a | positive impact on the participant’s mental health | and wellbeing. Besides providing access to the arts for those who otherwise probably wouldn't be able to, there will be a positive impact on their mental health and the Awards will themselves be used to promote | good mental health. The military community suffers significantly from a range of mental health challenges and can often find it very difficult to express their trauma and experience verbally. “Through art therapy, patients can convey how they really feel on the inside and reveal things that they weren't comfortable sharing with the world.” (Art therapy manager Tammy Shella, PhD, ATR-BC - hitps://health.clevelandclinic.org/how-art-can- help-you-cope-with-the-pandemic/) “Getting involved with the arts can have powerful and lasting effects on health. It can help to protect against a range of mental health conditions, help manage mental ill-health and support recovery.” (Coulton, S., Clift, S., Skingley, A. & Rodriguez, J. - Effectiveness and cost- effectiveness of community singing on mental health-related quality of life of older people: randomised controlled trial. Br. J. Psychiatry J. Ment. Sci. 207, 250-255 (2015)) Version 5 - Last\nOur aims are to: - encourage a sense of purpose and pride, and ambition amongst participants - provide the opportunity to create and to share work on a professional platform - to provide access for the participants to a wider audience - to empower and enhance life through creativity There are many very talented members of the military — worthy of having their creative talents shared more widely — and there are very few openings to enable this, especially in a professional setting. reinvested into the company to provide a greater services. on separate sheet if necessary.) Version 5 - Last cc."
+      }
+    ],
+    "company_differs": "",
+    "surplus_use": "into the company to provide a greater number of free services, or to subsidise existing services."
+  },
+  "extraction_metadata": {
+    "source_file": "14891915.pdf",
+    "cic36_page": null,
+    "cic36_pages_found": [],
+    "location_confidence": "low",
+    "extraction_method": "ocr_pytesseract_layout",
+    "pages_searched": [
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39
+    ],
+    "extracted_at": "2026-01-14T18:14:46.688185Z",
+    "document_page_count": 39,
+    "avg_chars_per_page": 123.05,
+    "processing_time": 89.973
+  }
+}

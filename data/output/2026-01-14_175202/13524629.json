@@ -1,0 +1,57 @@
+{
+  "company_number": "13524629",
+  "incorporation_date": null,
+  "document_type": "hybrid",
+  "extraction_status": "success",
+  "section_a": {
+    "beneficiaries": "The company’s activities will provide.benefit to... Young adults with learning disabilities and any accompanying conditions, and any other vulnerable community Groups"
+  },
+  "section_b": {
+    "activities": [
+      {
+        "activity": "It think Activities How | ( | ‘ote on | Having access Nats OF fei mort fore permanent use | ; Working with : not only meet i needs. : | | Align holistically | the best of | | i | i | | If the company makes any surplus it will be : It will be used to improve the quality of (Please continue\nSECTION C: 1. We/I, the undersigned, declare that the made will not be: (a) a political party; (b) a political campaigning organisation; (c) a subsidiary of a political party or of SECTION D: If this section is not completed your application TYPED NAMES ARE NOT ACCEPTABLE AND Each person who will be a first director of aa the company Signed | must sign the declarations. Signed [ cr 7 ~ = Signed [Signed or ea eres scanned Signed signatures are Signed | Signed | Signed | igned | Signed | You do not have to give any contact ee information in the box opposite but © if you do, it will help the Registrar of | Companies to contact you if there is ee aquery onthe form. information that you give will be visible to searchers of the public record. DX Number",
+        "description": "Lifestyle Homes | — ) to affordable but bespoke accommodation. . : clients to ensure that the accommodation does government regulations but meets the clients to our clients needs so they can function to their abilities. | | | used for... accommodation provided and for expansion. on separate sheet if necessary.)\nHomes company in respect of which this application is or a political campaigning organisation.‘ will be rejected, WILL BE REJECTED Po sj Patel po Date | | Io Se ! Date | | =e | Le : — I eo nt | Date | ol Leen | | soe | Date | | | Date | | ' | Date | | —_ as ~ em Date ' Date | | eee ; ene tenes : — vr“ | | Tel | | et DX Exchange |"
+      }
+    ],
+    "company_differs": "",
+    "surplus_use": ""
+  },
+  "extraction_metadata": {
+    "source_file": "13524629.pdf",
+    "cic36_page": null,
+    "cic36_pages_found": [],
+    "location_confidence": "low",
+    "extraction_method": "ocr_pytesseract_layout",
+    "pages_searched": [
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41
+    ],
+    "extracted_at": "2026-01-14T18:09:38.614249Z",
+    "document_page_count": 41,
+    "avg_chars_per_page": 89.0,
+    "processing_time": 87.844
+  }
+}

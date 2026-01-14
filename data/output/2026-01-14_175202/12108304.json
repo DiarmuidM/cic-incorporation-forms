@@ -1,0 +1,69 @@
+{
+  "company_number": "12108304",
+  "incorporation_date": null,
+  "document_type": "scanned",
+  "extraction_status": "success",
+  "section_a": {
+    "beneficiaries": "young people who are at risk of isolation, antisocial behaviour, violence and adverse mental health. We are specifically looking developing interventions which target both adverse mental health (including depression, anxiety, psychosis, low esteem and confidence) and adverse social health (addiction, aggression and violence, gang affiliation, isolation, risky sexual behaviour, bullying). The interaction between these internal and external factors is complex and most likely to be seen in those young people who are disadvantaged socially, economically, or due to family dysfunction. We aim to provide activities which are rooted in connection to natural environments, activities which involve physical activity, and activities which require peer support and group connection. There will also be a strong emphasis on adventure and exploration. We aim to use the findings of academic psychology and psychotherapy to inform our work. We aim to produce our own research and resources to support the work of existing services and organisations including secondary schools and further education teams"
+  },
+  "section_b": {
+    "activities": [
+      {
+        "activity": "Wellbeing services including This work will but not limited to: young becomes more people being assessed to that there is an understand risk, mental Most long term health and associated adolescence. behaviours, working with build individual schools, communities and connection, and families to create people can take environments for young without ongoing people to thrive, developing specialist services a peer support program. young people access services require support. If the company makes any surplus it will be To scale the research program and produce physical activities into the work of youth work those young people who are financially",
+        "description": "Youth Project Community Interest Company - company’s activities will benefit the Please provide as much detail as make an It you think lack wild space, and for those families who to provide adventure for their children, activity provide guided opportunities, perspectives, much needed self-reflection time in a non- challenging environment. benefit the community because as society individualised there is evidence to suggest increase in adverse mental health issues. mental health issues are diagnosed during Our work aims to deliver interventions which and community resources through also by teaching techniques which young into their own lives and apply simply need to access specialist services. Many remain inaccessible for a large range of whose issues fall below the threshold to yet due to social or emotional circumstance used for... guidance for integrating nature activities/ organisations. To provide activities for free for disadvantaged. n 04/04/2019"
+      }
+    ],
+    "company_differs": "",
+    "surplus_use": "To scale the research program and produce guidance for integrating nature activities/ physical activities into the work of youth work organisations. To provide activities for free for those young people who are financially disadvantaged."
+  },
+  "extraction_metadata": {
+    "source_file": "12108304.pdf",
+    "cic36_page": null,
+    "cic36_pages_found": [],
+    "location_confidence": "low",
+    "extraction_method": "ocr_pytesseract_layout",
+    "pages_searched": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      35,
+      36,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34
+    ],
+    "extracted_at": "2026-01-14T18:10:06.135408Z",
+    "document_page_count": 36,
+    "avg_chars_per_page": 0.0,
+    "ocr_confidence": "medium",
+    "processing_time": 106.995
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "company_number": "13199126",
+  "incorporation_date": null,
+  "document_type": "scanned",
+  "extraction_status": "success",
+  "section_a": {
+    "beneficiaries": "The company's activities will be carried on for the benefit of children and young people in the Liverpool City region. The activities will provide sporting opportunities for individuals and groups through training and coaching sessions, whilst providing education on the physical and well-being benefits of exercise. ? The community interest test is referred to in section 35 of the Companies (Audit, Investigations and Community Enterprise) Act 2004 and is expanded upon in regulations 3, 4 & 5 of the Regulations. 3 E.g. “the residents of Oldtown” or “those suffering from XYZ disease”"
+  },
+  "section_b": {
+    "activities": [
+      {
+        "activity": "This football coaching\nPersonal Development Although we to develop the engaging through We want gain the their personal Employability The organisation create lasting all individuals and experiencing financial hardship. experience to soccer camps all of which employers to If the company makes any surplus it will be We hope to generate a surplus from trading; (Please continue",
+        "description": "COMMUNITY FOOTBALL — .) provide football coaching and sporting for aif ages; however, we will have a specialist aged 4 years to 24 years old. This area is of interest as this age group is crucial for both football development. to attend training, we can offer meeting through digital platforms on a regular basis. keep children, especiaily those most vuinerable disadvantaged backgrounds, off the streets of prevent potential engagement in harmful will be achieved by providing high quality in a fun, enjoyable and safe environment.\nwill provide a football coaching service, we aim personal identity and mindset of individuals advice, guidance and training. individuals to feel satisfied within themselves and confidence to recognise their skills to build upon well-being. will aim to build upon individual skill-sets to chance by enhancing the life opportunities of engaging - espaciaily of those most vuinerable difficulties such as poverty, deprivation and This will be achieved by providing work opportunities as a coach, supporting applications and providing access to grass root teams — help build upon current skill sets for potential recognise. used for... all of which will be reinvested into the business. on separate sheet if necessary.)"
+      }
+    ],
+    "company_differs": "",
+    "surplus_use": "We hope to generate a surplus from trading; all of which will be reinvested into the business."
+  },
+  "extraction_metadata": {
+    "source_file": "13199126.pdf",
+    "cic36_page": null,
+    "cic36_pages_found": [],
+    "location_confidence": "low",
+    "extraction_method": "ocr_pytesseract_layout",
+    "pages_searched": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34
+    ],
+    "extracted_at": "2026-01-14T18:07:03.209622Z",
+    "document_page_count": 40,
+    "avg_chars_per_page": 0.0,
+    "ocr_confidence": "medium",
+    "processing_time": 119.615
+  }
+}

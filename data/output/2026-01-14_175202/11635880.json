@@ -1,0 +1,79 @@
+{
+  "company_number": "11635880",
+  "incorporation_date": null,
+  "document_type": "scanned",
+  "extraction_status": "success",
+  "section_a": {
+    "beneficiaries": "L The company’s activities will provide benefit to ... feopla Liv. OA We Lecak areas, heifers Chew fart also 4d pronding Gui dance, “fo Cre, a Clear fork 4 Aan Whee roth Hey Cam FiO. Sengesg At pos hve Messaght: nw id prt rarscng an, ‘a wee TES mowbeR - Membes Cam JO via WE CUCLOSS he geo. Wo RLDWIBE"
+  },
+  "section_b": {
+    "activities": [
+      {
+        "activity": "",
+        "description": "TE DE ELC — .) ALE Anb neLeed Famiy NEED ij CuldANce, SHOWN WAT Ev Tene To Tiem TO MokE Time Wild SUFFER RE The hat (RE SSURES To | | Wien Bé He To Buh RASE PUNKS ¥ ConinacT . | + RELA TIONSMES- iW Events ¢ MEETIANC WHO SUPPORT Tig SAME CAUSE Er COURAGE ACTIVE ; MCLE EMENT. FAUNAS 6 THe TY for... INTO ALLAN st FOR fONREMSING INVEST IN Add S7AFF TO ASSIST TO + erate sheet necessary.$ On) t ASSISTANCE if"
+      }
+    ],
+    "company_differs": "",
+    "surplus_use": "lmuvest back iNTO Ava SmiuNnc., OMUANIING EvENTS foe FONDEMSING, INVEST iN Ceonwind Tne Business ¥ RECRVITING AD TIONAL STAFF To ASSIST < Ee nq IN FORMEA Tord SSIS TAIMEE WITH S &9ncmnnd fork (ASES VED Crate EWAMS TO jo + ASSISTAL ease conti n separate sheet tf necessary."
+  },
+  "extraction_metadata": {
+    "source_file": "11635880.pdf",
+    "cic36_page": null,
+    "cic36_pages_found": [],
+    "location_confidence": "low",
+    "extraction_method": "ocr_pytesseract_layout",
+    "pages_searched": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49,
+      50,
+      51,
+      52,
+      53,
+      54,
+      55,
+      56,
+      57,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34
+    ],
+    "extracted_at": "2026-01-14T18:07:57.952041Z",
+    "document_page_count": 57,
+    "avg_chars_per_page": 0.0,
+    "ocr_confidence": "medium",
+    "processing_time": 156.36
+  }
+}

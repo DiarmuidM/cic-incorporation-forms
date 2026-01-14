@@ -1,0 +1,55 @@
+{
+  "company_number": "13403493",
+  "incorporation_date": null,
+  "document_type": "hybrid",
+  "extraction_status": "success",
+  "section_a": {
+    "beneficiaries": "Insert a f the communi ction of mmunity, which iti mpany will fit below E The company’s activities are designed to provide an enjoyable annual event for the benefit of the town’s residents, as well as those in the surrounding community, holiday visitors and others. This in turn will help support local businesses, providing employment and assisting the funding of local community projects"
+  },
+  "section_b": {
+    "activities": [
+      {
+        "activity": "| . It think Activities How A yearly event Community Events public and increasing the traditionally This event the residents for the purpose The incorporation this festival management unincorporated We will ralse sponsorship, event is free We will complete residents and gain suggestions event each | |",
+        "description": "Salcombe — ) will be hosted in Salcombe which benefits the residents of Salcombe and surrounding areas by footfall to, and interest in, the town ata quieter peried in the season. will be a free music festival and social event for and visitors of Salcombe and surrounding areas of community development. of Salcombe will enable and any future events to have a stable and greater access to funding than that of an community group. funds fram local businesses through advertising, event hosting etc. to ensure the to the local community and visitors to Salcombe. surveys and discuss our event with the focal community groups to review the festival and on how we may change and improve the year. i n 04/04/2019"
+      }
+    ],
+    "company_differs": "",
+    "surplus_use": ""
+  },
+  "extraction_metadata": {
+    "source_file": "13403493.pdf",
+    "cic36_page": null,
+    "cic36_pages_found": [],
+    "location_confidence": "low",
+    "extraction_method": "ocr_pytesseract_layout",
+    "pages_searched": [
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31
+    ],
+    "extracted_at": "2026-01-14T18:12:11.453527Z",
+    "document_page_count": 31,
+    "avg_chars_per_page": 141.45,
+    "processing_time": 74.929
+  }
+}

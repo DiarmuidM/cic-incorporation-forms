@@ -1,0 +1,79 @@
+{
+  "company_number": "11625375",
+  "incorporation_date": null,
+  "document_type": "scanned",
+  "extraction_status": "success",
+  "section_a": {
+    "beneficiaries": "All people in the community of all ages, from babies, toddlers nursery and school age to teenagers, families, elderly and inbetween. Anyone with additional needs Autism, Dementia any other Mental Helath problems, any disabilities and the carers too"
+  },
+  "section_b": {
+    "activities": [
+      {
+        "activity": "anyone in the additional needs. Specialist Sensory Art Workshops, Art and crafts The workshops and other Activity Workshops, | community, in | to help people live more | Positive lives. Working in Partnership with Positive Life Third Party, voluntary and individuals to chairty organisations to life. Provide Meaniful Activities. Helping people in partnership Party organisations meaninful If the company makes any surplus it will be All surplus monies will be used to develop and the client group.To purchase additional equipment (Please continue",
+        "description": "Workshops — .) no providsion of Sensory Art Workshops for community. Especially for people with any will benefit people who both live in the care, or acess day services. Workshops will strive to enable and empower use different Activities to lead a more positive be an integral part of the community, working with local business’s, charities and other Third to ensure people are provided with activities to help improve peoples lives. used for... expand the service further to the benefit of on separate continuation sheet if necessary.)"
+      }
+    ],
+    "company_differs": "",
+    "surplus_use": "All surplus monies will be used to develop and expand the service further to the benefit of the client group.To purchase additional equipment eee SS"
+  },
+  "extraction_metadata": {
+    "source_file": "11625375.pdf",
+    "cic36_page": null,
+    "cic36_pages_found": [],
+    "location_confidence": "low",
+    "extraction_method": "ocr_pytesseract_layout",
+    "pages_searched": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49,
+      50,
+      51,
+      52,
+      53,
+      54,
+      55,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34
+    ],
+    "extracted_at": "2026-01-14T18:12:44.920077Z",
+    "document_page_count": 55,
+    "avg_chars_per_page": 0.0,
+    "ocr_confidence": "medium",
+    "processing_time": 158.785
+  }
+}

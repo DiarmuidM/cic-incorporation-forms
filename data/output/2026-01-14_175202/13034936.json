@@ -1,0 +1,66 @@
+{
+  "company_number": "13034936",
+  "incorporation_date": null,
+  "document_type": "scanned",
+  "extraction_status": "success",
+  "section_a": {
+    "beneficiaries": "D&R TUTORING SERVICES will be operating in the borough Lambeth. Lambeth is considered one of the most deprived and poorest communities in the United Kingdom. Both Southwark and Lambeth have the highest gun and knife crime in London. It has a complex social and ethnic mix, with large African and Portuguese populations, and is an important focus for the UK black Caribbean population. Lambeth has a relatively young age profile. Although it is a largely residential borough, it is a destination for young working age people, rather than families. The company’s activities will provide benefit to. Education plays a pivotal role in the development of any society and our aim is to provide an educational service that is second to none. The population of Lambeth is increasing, and this is projected to continue. This will increase demand for accommodation, and the transport, education and other infrastructure that people need. D&R TUTORING SERVICES will provide tutoring in the core subjects of Mathematics, English and Science. As the need arise, we may offer more subjects. We will provide these tuitions from Primary to Secondary level. We will help to change the conduct of the youths in the community. This will enable them to choose the best alternatives available in any circumstance they face. By educating the community we know it is not only an economic improvement for the community but will help with the wellbeing of people in Lambeth. D&R TUTORING SERVICES will provide an education to the community that will play a role of developing young men and women as fully as possible. in summary the education that we will provide will improve the income level of people in Lambeth which will in turn improve the economic outcome of the boreugh and decrease the crime level on a whale"
+  },
+  "section_b": {
+    "activities": [
+      {
+        "activity": "| . It think Activities | How ( : | To provide customised Several data support in the core outside of the . ' subjects of Mathematics, | more and have English and Science. As tertiary level. | and when the need arise | subject : more subjects will be important : added. give students | attention that helps children _ : not are during breaks . | during the | income and | will seek ; extra lessons endeavours. | i mental wellbeing | D&R TUTORING : Offer Adult Literacy and support and Numeracy (increasing community), | also have : will seek the community. :\ni If the makes any surplus it will be company ‘community. For example, to get textbooks, teaching and learning resources, We . (Please continue",
+        "description": "| TUTORING SERVICES — ) : have shown that students who get extra support ' classroom (Tutoring) in their studies progress better outcome from primary school up to Our Tutoring Service will help strengthen i comprehension, boost confidence, and build | learning skills. B&R TUTORING SERVICES will also in the Borough of Lambeth individualized they do not get in a crowded classroom. This — who struggle keep well those who ; to up, as as challenged enough. It also keeps students on track, from school, such as during summer Break, or | Easter. As many parents in the Borough are on low cannot afford extra tuition for their children, we funding to ensure that these children can access to support positive outcome in their educational This will result in a decrease in poverty and poor in Lambeth. SERVICES know that Literacy and Numeracy | encourage better workforce participation ! the productivity input for the borough and wider: productivity and the broader economy, and will impact on Social and health income. Once again we : funding and offer this service free to members of | n 04/04/2019\nused for - Surplus will be used to reinvest in the laptops, register more students and buy other : : on separate sheet if necessary.) Version & Last Updated on 04/04/2019"
+      }
+    ],
+    "company_differs": "",
+    "surplus_use": "- Surplus will be used to reinvest in the community. For example, to get textbooks, laptops, register more students and buy other teaching and learning resources. We i"
+  },
+  "extraction_metadata": {
+    "source_file": "13034936.pdf",
+    "cic36_page": null,
+    "cic36_pages_found": [],
+    "location_confidence": "low",
+    "extraction_method": "ocr_pytesseract_layout",
+    "pages_searched": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33
+    ],
+    "extracted_at": "2026-01-14T18:08:47.791535Z",
+    "document_page_count": 33,
+    "avg_chars_per_page": 0.0,
+    "ocr_confidence": "medium",
+    "processing_time": 104.581
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "company_number": "15643597",
+  "incorporation_date": null,
+  "document_type": "hybrid",
+  "extraction_status": "success",
+  "section_a": {
+    "beneficiaries": "16-24-year-olds from disadvantaged backgrounds by equipping them with digital lit- eracy and content creation skills. This initiative aims to enhance their job prospects, | boost confidence, and foster a sense of community, opening up new opportunities for | personal and professional development in the digital sphere. i Version 2 - Last Updated on 23/02/2024"
+  },
+  "section_b": {
+    "activities": [
+      {
+        "activity": "| Courses: Offer compre- hensive, in-depth courses covering the entire content creation process, from ideation to distribution. . Mentorship: Provide access to experienced content creators for guidance, feedback, and support to help participants grow and Version\ncommunity i Crystabel Tganize Collaborative through projects that allow the mentorship, omy to fh tc y shops and IF SIMS, WOTK 1O- while mentorship gether, and create ing. Community shared content. teamwork, Everts: creators. . where in content ors to meet, share ideas, and form collab- orations, enhancing the sense of community and mutual support. If the company makes any surplus, it charities, please include the wording ‘with the If any surplus is generated we expect that this CICs and charities with similar objectives, with (Please continue Version",
+        "description": "| CRYSTABEL Statement — the company’s activities will benefit the Please provide as much detail as being set up to do. | will | | organised by Crystabel Creates Plus offers distinct the community, fostering growth, engagement, and for those who cannot afford to pay for content cre- offered by for-profit companies. 9 - Last Updated on 23/02/2024\n| Creates Plus's activities aim to empower the community practical workshops, in-depth courses, personalised collaborative projects, and networking events. Work- courses enhance creative skills and digital literacy, provides targeted guidance to accelerate learn- projects offer hands-on experience and foster and networking events build a supportive ecosystem of these activities cultivate a vibrant community | individuals can express themselves, collaborate, and thrive creation and digital storytelling. | | | | will be used for... (1f donating or fundraising for consent Regulator’) will be reinvested in the business and/or donated to the consent Regulator. | separate sheet if necessary.) 9 - Last Updated on 23/02/2021"
+      }
+    ],
+    "company_differs": "",
+    "surplus_use": "it will be used for... (1¢ donating or fundraising for charities, please include the wording ‘’) CICs and charities with similar objectives, . F any surplus is generated we expect that this will be reinvested in the business and/or donated to L"
+  },
+  "extraction_metadata": {
+    "source_file": "15643597.pdf",
+    "cic36_page": null,
+    "cic36_pages_found": [],
+    "location_confidence": "low",
+    "extraction_method": "ocr_pytesseract_layout",
+    "pages_searched": [
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39
+    ],
+    "extracted_at": "2026-01-14T18:13:40.544537Z",
+    "document_page_count": 39,
+    "avg_chars_per_page": 104.87,
+    "processing_time": 89.091
+  }
+}

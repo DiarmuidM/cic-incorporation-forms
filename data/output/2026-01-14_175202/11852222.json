@@ -1,0 +1,81 @@
+{
+  "company_number": "11852222",
+  "incorporation_date": null,
+  "document_type": "scanned",
+  "extraction_status": "success",
+  "section_a": {
+    "beneficiaries": "BE George Garrett Archive Project C.I.C. activities will provide benefit to local, diverse communities through its work in celebrating, preserving and disseminating the work of the Liverpool writer, merchant seaman and social activist, George Garrett. This will be done through educational courses and developing creative and cultural projects to schools (pupils and teachers), Further and Higher Education students; as well as the general population to benefit the community of the Liverpool City Region as well as raising awareness of Garrett's work nationally and internationally"
+  },
+  "section_b": {
+    "activities": [
+      {
+        "activity": "It think Provide community-based The community education courses. raise awareness Creativity within education evening work and 20th Maintaining the George Garrett The community Archives relating to project will of creative work Develop archiving, presenting and The company will speaking skills speaking and To support and develop the The community publication and performance of undiscovered Garrett's work of high quality Advocate the importance of The Community working class heritage and culture, | importance of with a particular focus on working which has been class literature. To develop a wider awareness of The community the importance of the transatlantic | links, and its links, particularly it's link to the and the UK. The Eastern seaboard of America, and and international) Irish heritage within Liverpool own | an interest in history and heritage. If the company makes any surplus it will be used for above. eS (Please continue",
+        "description": "Garrett Archive Project C.i.C — ) will benefit by the company working with local schools to of local writers, improve literacy levels and to encourage school children. The company will offer adult public courses to promote a wider understanding of Garrett's century local history. will benefit by the preservation of an important archive Liverpool's literary, seagoing, theatrical and social history. The encourage local and academic research and the development from the archive. provide training in archiving, event organisation and presenting skills for local communities will benefit by the sharing of the work of the work of this writer, and culturally through the creation and publication creative works will benefit from gaining an understanding of the working class writers and working-class culture generally, left out of many literary and historical narratives will benefit by gaining a greater understanding of these impact on the heritage and culture of Liverpool, Merseyside community will benefit by learning history (social, local from a fresh perspective. It will encourage literacy and creative writing and drama. investing the ongoing aims of the company as outlined eS | on separate sheet if necessary.)"
+      }
+    ],
+    "company_differs": "",
+    "surplus_use": "investing the ongoing aims of the company as outlined How will the activity benefit the community? (The community will benefit by..."
+  },
+  "extraction_metadata": {
+    "source_file": "11852222.pdf",
+    "cic36_page": null,
+    "cic36_pages_found": [],
+    "location_confidence": "low",
+    "extraction_method": "ocr_pytesseract_layout",
+    "pages_searched": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49,
+      50,
+      51,
+      52,
+      53,
+      54,
+      55,
+      56,
+      57,
+      58,
+      59,
+      60,
+      61,
+      62,
+      63,
+      64,
+      65,
+      66,
+      67
+    ],
+    "extracted_at": "2026-01-14T18:15:35.931284Z",
+    "document_page_count": 67,
+    "avg_chars_per_page": 0.0,
+    "ocr_confidence": "medium",
+    "processing_time": 171.011
+  }
+}

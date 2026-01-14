@@ -1,0 +1,57 @@
+{
+  "company_number": "14769494",
+  "incorporation_date": null,
+  "document_type": "hybrid",
+  "extraction_status": "success",
+  "section_a": {
+    "beneficiaries": "community members from diverse backgrounds in the East Midlands, via a ‘Social Innovation Lab’ approach to promote collaboration in order to create innovative solutions to complex social problems. Our activities will bring about improvements to the lives of community members who are disadvantaged by circumstance, geographical location, gender, ethnic origin or disability. Social Innovation People CIC aims to become a launch pad for social ventures, and work with them to create long-term sustainable impact and solve some of the region’s most pressing economic and social issues"
+  },
+  "section_b": {
+    "activities": [
+      {
+        "activity": "where community members can engage in constructive We will help to dialogue and exchange ideas | economic, social freely to tackle pressing social | our region, and issues. development Deliver social innovation By working accelerator programmes sustainable and designed to fast track new meaningful ideas and to assist with to bring about investment funding. disadvantaged gender, ethnic If the company makes any surplus, it will be the wording ‘with the consent of the CIC Regulator) Reinvesting back into the company to further community grant fund with any surpluses raised. (Please continue",
+        "description": "— .) together individuals from diverse backgrounds to create innovative solutions to complex social set up social ventures that will tackle and environmental issues facing people in in so doing, improve their lives through the of new services or programmes. together with the community, we will create scalable solutions that can make a impact in our community and beyond. We desire improvements to the lives of people who are by circumstance, geographical location, origin or disability. used for . af donating fundraising for charities, please include or benefit the community. Our aim is to establish a on separate sheet if necessary.)"
+      }
+    ],
+    "company_differs": "",
+    "surplus_use": "it will be used for... a¢ donating or fundraising for charities, please include the wording ‘ Reinvesting back into the company to further benefit the community. Our aim is to establish a community grant fund with any surpluses raised. a"
+  },
+  "extraction_metadata": {
+    "source_file": "14769494.pdf",
+    "cic36_page": null,
+    "cic36_pages_found": [],
+    "location_confidence": "low",
+    "extraction_method": "ocr_pytesseract_layout",
+    "pages_searched": [
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36
+    ],
+    "extracted_at": "2026-01-14T18:10:22.483407Z",
+    "document_page_count": 36,
+    "avg_chars_per_page": 135.03,
+    "processing_time": 94.691
+  }
+}

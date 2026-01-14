@@ -1,0 +1,79 @@
+{
+  "company_number": null,
+  "incorporation_date": null,
+  "document_type": "scanned",
+  "extraction_status": "success",
+  "section_a": {
+    "beneficiaries": "1. Schoo! groups 2; Students 3. Moray Councils New Care Strategies. 4. People seeking work experience 5. Internships 6. Private individuals and community groups"
+  },
+  "section_b": {
+    "activities": [
+      {
+        "activity": "useful items To make useful handmade The provision products from sustainable local materials, These activities products and Basketmaking. Keeping heritage To offer an Internship The activities Program in basket Making. Youth Program, | 3 days a week ' Moray Councils would work There is a Woo! felting and spinning. ones hands, present and | into a useful : These activities ! backgounds to enviroment and If the company makes any surplus it will be growing our own local willow bed, developing hurdle making green wood working. , (Please continue",
+        "description": "Useful — .) will provide opportunities for people to and confidence, through making naturally from locally grown materials. of social and therapeutic activities. will create high quality sustainable locai a demand for local materials. craft alive. have been used by Moray Council and the we have a Young git for 3 mofittis on an internship. new stratergies on health and wellbeing wonderfully here with Useful. healing that takes place when working a skill with confidence, empowerment, a connection to the oneself, self -reliance, ail this by turning withies product. create the opportunity for people from all come together in a caring, practical learning connect with nature. used for... other traditional skills into the buisness ie , on separate sheet if necessary.)"
+      }
+    ],
+    "company_differs": "",
+    "surplus_use": "growing our own local willow bed, developing other traditional skills into the buisness , ie hurdle making , green wood working. ee Ss |"
+  },
+  "extraction_metadata": {
+    "source_file": "SC509200.pdf",
+    "cic36_page": null,
+    "cic36_pages_found": [],
+    "location_confidence": "low",
+    "extraction_method": "ocr_pytesseract_layout",
+    "pages_searched": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34
+    ],
+    "extracted_at": "2026-01-14T18:18:00.886783Z",
+    "document_page_count": 46,
+    "avg_chars_per_page": 0.0,
+    "ocr_confidence": "medium",
+    "processing_time": 162.188
+  }
+}

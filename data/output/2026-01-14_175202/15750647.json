@@ -1,0 +1,56 @@
+{
+  "company_number": "15750647",
+  "incorporation_date": null,
+  "document_type": "hybrid",
+  "extraction_status": "success",
+  "section_a": {
+    "beneficiaries": "BE The company’s activities will provide benefit to ... At Dartmouth Pride, our mission is to be a local Pride for our local LGBTQ+ com- munity. Dartmouth Pride is a Pride for all. We're here to support new same-sex couples in town, celebrate the opening of LGBTQ+ businesses, accompany our friends in the community on their journey to self-discovery as they transition into their true selves, and offer a helping hand to parents supporting their LGBTQ+ chit- dren who have recently come out. We are a Pride for all, committed to serving the diverse needs of our Dartmouth community. We plan to hold events to help support the Queer community in Dart- mouth and are forming this company to be able to more easily help our commu- nity. fated on 23/Q2/ 2024"
+  },
+  "section_b": {
+    "activities": [
+      {
+        "activity": "| more regular Sell Merchandise As a way to | merchandise | j merchandise, we plan to | If the company makes any surplus, it will be | the wording ‘with the consent of the CIC Regulator’) If the company makes a surplus, we plan to company for the following year. Should we we would do so with the consent of the CIC (Please continue\n| DARTMOUTH 1. We/I, the undersigned, declare that the made will not be: (a) a political party; (b) a political campaigning organisation; (c) a subsidiary of a political party or of SECTION D: If this section is not completed your application TYPED NAMES ARE NOT ACCEPTABLE AND Each person who is Signed a director of the company Signed must sign the declarations. (Signed, scanned or DocuSign signatures are allowed.] You do not have to give any contact information in the box opposite but if you do, it will help the Registrar of Companies to contact you if there is Jonathan Gilland a query on the form. The contact information that you give will be Email: visible to searchers of the public record. DX Number",
+        "description": "| PRIDEUKCIC — This event offers emotional support Devon community, strengthens friendships & bonds community, and allows us to offer queer in a small Devon town. a yearly Pride, we plan to host several events the year to check in with our community on a basis. make money for the company, we plan to sell of Dartmouth . By selling we plan for these funds to support the events host. used for... ut donating fundraising for charities, please include | or | put it back into the company to build a stronger make enough to donate to a local queer charity, Regulator. separate sheet if necessary.)\ncompany in respect of which this application is or a political campaigning organisation.* will be rejected. WILL BE REJECTED | fou Date oF Date eee 1 | hello@dartmouthpride.uk Tel: 07756925757 | DX Exchange |"
+      }
+    ],
+    "company_differs": "",
+    "surplus_use": ""
+  },
+  "extraction_metadata": {
+    "source_file": "15750647.pdf",
+    "cic36_page": null,
+    "cic36_pages_found": [],
+    "location_confidence": "low",
+    "extraction_method": "ocr_pytesseract_layout",
+    "pages_searched": [
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33
+    ],
+    "extracted_at": "2026-01-14T17:56:14.060748Z",
+    "document_page_count": 33,
+    "avg_chars_per_page": 110.85,
+    "processing_time": 86.299
+  }
+}

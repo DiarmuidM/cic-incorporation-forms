@@ -1,0 +1,57 @@
+{
+  "company_number": "13991991",
+  "incorporation_date": null,
+  "document_type": "hybrid",
+  "extraction_status": "success",
+  "section_a": {
+    "beneficiaries": "The company’® activities will provide benefit to ... Marginalised ethnic, economic and social groups concerning their personal and professional development. This will include The services will be open to all ages and gender that meet the above criteria. The services will also be open to support and partnerships for other entities that support these purposes"
+  },
+  "section_b": {
+    "activities": [
+      {
+        "activity": "financial profit And offering on-going valuable mentoring and consulting | both groups. support. as well as offer There is a lack Facilitate the small business, development of without a strong partnerships and obstacle of the collaborations with opportunity to institutions and as further self organisations that can of being able support being able to entities. This scale the reach of our exercising in service How better to you need to mentored, Any surplus will be used to reinvest in local interested in being part of an alliance or (Please continue",
+        "description": "— Despite the gained by both sets involved, the lack of direct gained has resulted in the lack of, such relationships that have great potential to empower We will facilitate developing these relationships our talents, skill-set and experience. of effort made to connect individuals with organisations and institutions to benefit both profit motive. We intend to remove the need to be profitable so as to not deprive the benefits of such relationships. Benefits such and professional development from opportunity to be involved with operating businesses and allows for individuals to gain development by practical real-life day-to-day operations. E.g. develop the attitude of mind set and attitude become and entrepreneur than actually be consulted and work alongside an active one. business to support and facilitate business collaborating to aling the service on separate sheet if necessary.)"
+      }
+    ],
+    "company_differs": "",
+    "surplus_use": "Any surplus will be used to reinvest in local business to support and facilitate business"
+  },
+  "extraction_metadata": {
+    "source_file": "13991991.pdf",
+    "cic36_page": null,
+    "cic36_pages_found": [],
+    "location_confidence": "low",
+    "extraction_method": "ocr_pytesseract_layout",
+    "pages_searched": [
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33
+    ],
+    "extracted_at": "2026-01-14T18:00:05.784188Z",
+    "document_page_count": 33,
+    "avg_chars_per_page": 113.58,
+    "processing_time": 93.351
+  }
+}

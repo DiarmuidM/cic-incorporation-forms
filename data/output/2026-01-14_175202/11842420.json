@@ -1,0 +1,79 @@
+{
+  "company_number": "11842420",
+  "incorporation_date": null,
+  "document_type": "scanned",
+  "extraction_status": "success",
+  "section_a": {
+    "beneficiaries": "Ww. The company’s activities will provide benefit to ... .. in particular, but not exclusively, theatre audiences, theatre practitioners, associated artists, educational establishments and students including those in primary, secondary, higher and further education, the elderly, refugees, communities who speak English as a second language in and around the East Midlands with an emphasis on those communities residing in Nottinghamshire. All those who wish to use the arts as a catalyst for debate and active participation in their community and society in general Version 4 - Last Updated on 24/08/2016"
+  },
+  "section_b": {
+    "activities": [
+      {
+        "activity": "workshops and other arts in general. activities in the creative context of theatre and Traditionally other art-forms collaborate, understanding. n 24/08/2016\nTour performances, The community workshops and other and involving activities to both work will also traditional and people from non-traditional venues. If the company makes any surplus it will be used In the short term we expect that this will be will be used for developing links with other sustainable structures in the communities we (Please continue n 24/08/2016",
+        "description": "— .) will benefit by participating in the activities of and using its performances and workshops as a for opening up debate and for the sharing of knowledge around particular issues. will participate with the development of the performances and therefore engage with the This will foster further engagement with the disparate communities will be encouraged to creating pathways for communication and\nwill benefit by arts work happening within the community; enriching cultural life. The break down barriers that traditionally stop participating in cultural events for... reinvested in the Company. In the longer term it organisations and communities and for supporting work in. PT on separate sheet if necessary.)"
+      }
+    ],
+    "company_differs": "",
+    "surplus_use": "In the short term we expect that this will be reinvested in the Company. In the longer term it will be used for developing links with other organisations and communities and for supporting sustainable structures in the communities we work in."
+  },
+  "extraction_metadata": {
+    "source_file": "11842420.pdf",
+    "cic36_page": null,
+    "cic36_pages_found": [],
+    "location_confidence": "low",
+    "extraction_method": "ocr_pytesseract_layout",
+    "pages_searched": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49,
+      50,
+      51,
+      52,
+      53,
+      54,
+      55,
+      56,
+      57,
+      58,
+      59,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34
+    ],
+    "extracted_at": "2026-01-14T18:17:06.861767Z",
+    "document_page_count": 59,
+    "avg_chars_per_page": 0.0,
+    "ocr_confidence": "medium",
+    "processing_time": 139.649
+  }
+}

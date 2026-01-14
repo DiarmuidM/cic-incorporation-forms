@@ -1,0 +1,67 @@
+{
+  "company_number": "12561870",
+  "incorporation_date": null,
+  "document_type": "scanned",
+  "extraction_status": "success",
+  "section_a": {
+    "beneficiaries": "Emerging music artists, young people interested in careers in creative industries and those looking to work in live events, in Wales and across other areas of the UK"
+  },
+  "section_b": {
+    "activities": [
+      {
+        "activity": "It think Activities How Provide support services to Gaining access artists develop artistry careers Provide work experience Having access Opportunities to young people | professionals long term Delelop high quality Having access community events as an audience to gain skills If the company makes any surplus it will be Further development of the company and (Please continue n 21/05/2012",
+        "description": "CIC — ) to professional guidance and support to and establish business plans for successful to meaningful work experience supervised by in the industry which will improve their CV'S and career opportunities to quality music events which they can attend member and also get involved in the process and experience to create community cohesion used for... therefore additional services for the community. on separate sheet if necessary.)"
+      }
+    ],
+    "company_differs": "",
+    "surplus_use": "Further development of the company and therefore additional services for the community. SS SS |"
+  },
+  "extraction_metadata": {
+    "source_file": "12561870.pdf",
+    "cic36_page": null,
+    "cic36_pages_found": [],
+    "location_confidence": "low",
+    "extraction_method": "ocr_pytesseract_layout",
+    "pages_searched": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34
+    ],
+    "extracted_at": "2026-01-14T18:08:19.140173Z",
+    "document_page_count": 34,
+    "avg_chars_per_page": 0.0,
+    "ocr_confidence": "medium",
+    "processing_time": 101.827
+  }
+}

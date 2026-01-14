@@ -1,0 +1,57 @@
+{
+  "company_number": "15679296",
+  "incorporation_date": null,
+  "document_type": "hybrid",
+  "extraction_status": "success",
+  "section_a": {
+    "beneficiaries": "The Isle of Wight community encompasses a unique blend of local residents, artists, and artisans who navigate the island's geographical challenges of rurality and isolation. Its distinct character is shaped by its rich cultural heritage, which has been nurtured by its geographical seclusion. Despite its isolated location, the community thrives with a strong sense of resilience, creativity, and connection to the land. This community values its artistic and cultural traditions, cherishing opportunities to celebrate and showcase local talent. The company aims to benefit this community by supporting its artistic endeavours, fostering collaboration, and enhancing cultura! engagement, thereby preserving and promoting the Isle of Wight's rich cultural heritage while addressing its unique geographical challenges. The company’s activities will provide benefit to the residents of the Isle of Wight, with a particular focus on local artists, artisans, and the wider community interested in arts, crafts, and culture"
+  },
+  "section_b": {
+    "activities": [
+      {
+        "activity": "supports local artists and appreciation, artisans by providing them with a platform to showcase their work, engage with the public, and generate opportunities for collaboration and networking. Through the annual The community membership scheme, the cohesion and company will facilitate the event. resources, guidance, and connectivity support for participating artists and artisans fromthe | The island will Isle of Wight community. The | effect of company will support the businesses development of social and visiting other wider media releases and other marketing strategies to build exposure for the annual event.\nIf the company makes any surplus, it will be further support the Isle of Wight Open Studios and artisans, and promote the arts and culture donating or fundraising for charities, any surplus consent of the CIC Regulator. (Please continue",
+        "description": "— will benefit by enhancing community pride through participation and attendance at Artists will benefit through building resilience and with others. benefit socio-economically providing a ripple adjacent gains through local services and from visitors coming to the Island and residents areas of the IW.\nreinvested into the company's activities to event, provide additional resources for artists scene on the Isle of Wight. In the event of will be used for charitable purposes with the separate sheet if necessary.)"
+      }
+    ],
+    "company_differs": "",
+    "surplus_use": "charitable purposes ."
+  },
+  "extraction_metadata": {
+    "source_file": "15679296.pdf",
+    "cic36_page": null,
+    "cic36_pages_found": [],
+    "location_confidence": "low",
+    "extraction_method": "ocr_pytesseract_layout",
+    "pages_searched": [
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40
+    ],
+    "extracted_at": "2026-01-14T17:56:22.683445Z",
+    "document_page_count": 40,
+    "avg_chars_per_page": 158.65,
+    "processing_time": 80.872
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "company_number": "08082505",
+  "incorporation_date": null,
+  "document_type": "scanned",
+  "extraction_status": "success",
+  "section_a": {
+    "beneficiaries": "any members of the community experiencing issues related to sexuality, identity, gender and diversity"
+  },
+  "section_b": {
+    "activities": [
+      {
+        "activity": "| METRO If the company makes any surplus it will be The benefit of the registered charity, Metro company registration number 2716101 (Please continue",
+        "description": "INSIGHT COMMUNITY INTEREST COMPANY —"
+      }
+    ],
+    "company_differs": "",
+    "surplus_use": "The benefit of the registered charity, Metro Centre Ltd, charity registration number 1070582, company registration number 2716101 ——_ \" providing services & resources or developing, producing and manufacturing products which promote, further, develop or measure health and well-being and to empower individuals, including the provision of support, advice, the provision of information, advocacy, resources, counselling, group work, outreach services, community development services, capacity-building services, campaigning, leadership advice, research, clinical services, consultancy services, training, and education"
+  },
+  "extraction_metadata": {
+    "source_file": "08082505.pdf",
+    "cic36_page": null,
+    "cic36_pages_found": [],
+    "location_confidence": "low",
+    "extraction_method": "ocr_pytesseract_layout",
+    "pages_searched": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34
+    ],
+    "extracted_at": "2026-01-14T18:06:37.313044Z",
+    "document_page_count": 49,
+    "avg_chars_per_page": 0.0,
+    "ocr_confidence": "medium",
+    "processing_time": 165.381
+  }
+}

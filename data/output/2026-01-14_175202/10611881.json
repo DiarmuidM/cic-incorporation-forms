@@ -1,0 +1,79 @@
+{
+  "company_number": "10611881",
+  "incorporation_date": null,
+  "document_type": "scanned",
+  "extraction_status": "success",
+  "section_a": {
+    "beneficiaries": ""
+  },
+  "section_b": {
+    "activities": [
+      {
+        "activity": "t ! | If the company makes any surplus it will be Reinvesting into achieve primary social purpose (Please continue n 24/08/2016",
+        "description": "Carnival (Bristol) C.1.C. ~ used for... and social mission on separate sheet if necessary.)"
+      }
+    ],
+    "company_differs": "",
+    "surplus_use": "Reinvesting into achieve primary social purpose and social mission"
+  },
+  "extraction_metadata": {
+    "source_file": "10611881.pdf",
+    "cic36_page": null,
+    "cic36_pages_found": [],
+    "location_confidence": "low",
+    "extraction_method": "ocr_pytesseract_layout",
+    "pages_searched": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49,
+      50,
+      51,
+      52,
+      53,
+      54,
+      55,
+      56,
+      57,
+      58,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34
+    ],
+    "extracted_at": "2026-01-14T18:07:10.921459Z",
+    "document_page_count": 58,
+    "avg_chars_per_page": 0.0,
+    "ocr_confidence": "medium",
+    "processing_time": 152.99
+  }
+}

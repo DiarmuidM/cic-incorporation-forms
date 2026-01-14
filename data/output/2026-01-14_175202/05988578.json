@@ -1,0 +1,36 @@
+{
+  "company_number": "05988578",
+  "incorporation_date": null,
+  "document_type": "scanned",
+  "extraction_status": "success",
+  "section_a": {
+    "beneficiaries": "as defined in section 35 of the Companies (Audit, Investigations and Community Enterprise) Act 2004 (“the Act”) and the Regulations. Please insert a short description of the community, or section of the community, which it is intended that the company will benefit, in the space provided below (See note 2): The company’s activities will provide Pens to... «1 portions! wities will De Carted OF tre Comp We achuies Wh oat Or te poh of vetadenls o& Sed HAPNSHIZOR 437"
+  },
+  "section_b": {
+    "activities": [
+      {
+        "activity": "| ( i Orgarse This saseims wibn the locat Commonity ay | (e-4: shops rune eS\" a est VOD amd provide in o¥doy Yo Wino nal Kary and | of bo ayks ‘on fie lof Cag, | Ry < tN Qum of ackiv Ry | used we Sessions as creas of in ” aa | South. Tyros (dank had and . shoud) lor ak idonh a Poised, Hous Sense. of | poke peers | Our company differs from a general commercial and iF ik makes a Servis f0 If the company makes any surplus it will be used company .in ovday to Communit} (Please continue 10 November 2005",
+        "description": "© idoaS a oink fer aaople f in Ne Gala he Devough of Tyraside cones of Loin are aslorend Br wi ott fo ts Rhus a . and unlock te pal oly inns we ni dang CN ane inte orn agnve and creabie pe cmautahve trot nail bot issues om in We will las USod . Sessions Ca pac ne to Rid to Ge tisuss Yo, ww me Sia of company because... no iy will ae investad on te for... Ce. ~ vn tha te serins dalirercdD & OR on separate continuation sheet if necessary.)"
+      }
+    ],
+    "company_differs": "WK has no Shorehaidor$ and’ iP ik makes a prhh, ik wil loo Avesta 7 da veloping Now> Dries fo wonaht tre cammaumraly Quon 0",
+    "surplus_use": "C2.= invesunmtk on the Compan in avdoy to imprtvR te semindt dalirverrd & OR"
+  },
+  "extraction_metadata": {
+    "source_file": "05988578.pdf",
+    "cic36_page": null,
+    "cic36_pages_found": [],
+    "location_confidence": "low",
+    "extraction_method": "ocr_pytesseract_layout",
+    "pages_searched": [
+      1,
+      2,
+      3
+    ],
+    "extracted_at": "2026-01-14T18:18:37.925289Z",
+    "document_page_count": 37,
+    "avg_chars_per_page": 0.0,
+    "ocr_confidence": "medium",
+    "processing_time": 11.443
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "company_number": "11758647",
+  "incorporation_date": null,
+  "document_type": "scanned",
+  "extraction_status": "success",
+  "section_a": {
+    "beneficiaries": "Individuals impacted by mental health issues by providing environments where they can meet with others in similar situations for mutual support and encouragement"
+  },
+  "section_b": {
+    "activities": [
+      {
+        "activity": "impacted by mental health issues meet and share | Can their experiences ; Raise funds through : Gaining donations and to fund | live and/or work. grants activities and organisers ; | If the company makes any surplus it will be Health Mates C.LC. so that more people can (Please continue",
+        "description": "| Health Mates C.I.C. — .) able to spend time with people who have similar and needs so that they realise they are not alone reduce some of the alienation and fear of Building mutual local support communities. access to walks and events local to where they used for...promoting and publicising Mental benefit from it. on separate sheet if necessary.)"
+      }
+    ],
+    "company_differs": "",
+    "surplus_use": "it wilf be used for...promoting and publicising Mental Health Mates C.1.C. so that more people can benefit from it. How will the activity benefit the community? (The community will benefit by..."
+  },
+  "extraction_metadata": {
+    "source_file": "11758647.pdf",
+    "cic36_page": null,
+    "cic36_pages_found": [],
+    "location_confidence": "low",
+    "extraction_method": "ocr_pytesseract_layout",
+    "pages_searched": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49,
+      50,
+      51,
+      52,
+      53,
+      54,
+      55,
+      56,
+      57,
+      58,
+      59,
+      60,
+      61,
+      62,
+      63,
+      33,
+      34
+    ],
+    "extracted_at": "2026-01-14T18:07:22.991701Z",
+    "document_page_count": 63,
+    "avg_chars_per_page": 0.0,
+    "ocr_confidence": "medium",
+    "processing_time": 156.316
+  }
+}

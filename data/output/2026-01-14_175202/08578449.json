@@ -1,0 +1,76 @@
+{
+  "company_number": "08578449",
+  "incorporation_date": null,
+  "document_type": "scanned",
+  "extraction_status": "success",
+  "section_a": {
+    "beneficiaries": "we are tackling crime in the very early stages, at the time when our youths still are yet to decide on the direction their lives will take, when some of them may feel that a life of crime ts a viable option - tt is not just the money and as easy It comes, we let them know it goes too, but the question we always get asked by the kids Is - ‘have you ever met Charles Bronson” this is the glamortsation of criminals that our youths get to see, all the kids know who he Is, this Is the Kind of image we have to get from their minds and replace it with the facts he 1s never getting out, 1s this the life you wish for yourself 1s then the question? We are also now proving advice and support for those Just leaving jail and wishing to gain a foothold in their new way of life This ts through volunteering within our company as well as finding suttable placements for them in the"
+  },
+  "section_b": {
+    "activities": [
+      {
+        "activity": "ts being set up to do) To reduce offending through workshops based in prisons opportunities and also paid employment for those who find it and also continuing the hard to gain employment from their past behaviours. support once they are released To deliver workshops and demonstrations in various youth establishments showing the youngsters the = criminal way of life, and removing the glamour associated with this.",
+        "description": "Reducing anti-social behaviour by providing volunteering Raises awareness in schools of the consequences to being involved in criminal activities, which in turn has a positive real side to a leading a long term effect on the community"
+      }
+    ],
+    "company_differs": "",
+    "surplus_use": "providing free or heavily subsidised demonstration in schools, particularly schools which we feel would most benefit from our services."
+  },
+  "extraction_metadata": {
+    "source_file": "08578449.pdf",
+    "cic36_page": null,
+    "cic36_pages_found": [],
+    "location_confidence": "low",
+    "extraction_method": "ocr_pytesseract_layout",
+    "pages_searched": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34
+    ],
+    "extracted_at": "2026-01-14T17:54:29.340385Z",
+    "document_page_count": 43,
+    "avg_chars_per_page": 0.0,
+    "ocr_confidence": "medium",
+    "processing_time": 145.987
+  }
+}

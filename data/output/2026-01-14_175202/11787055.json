@@ -1,0 +1,79 @@
+{
+  "company_number": "11787055",
+  "incorporation_date": null,
+  "document_type": "scanned",
+  "extraction_status": "success",
+  "section_a": {
+    "beneficiaries": "im The company’s activities will provide benefit to ... Voluntary, Community and Social Enterprise Sector Organisations (also known as Civil Society) across the unitary authority areas of Bristol, Bath & North East Somerset, North Somerset and South Gloucestershire (known as the West of England). These civil society organisations will include voluntary and community organisations (registered charities and other organisations such as associations, self-help groups and community groups), social enterprises, mutuals and co- operatives"
+  },
+  "section_b": {
+    "activities": [
+      {
+        "activity": "1.C. will provide The community leadership, support and advocating for - coordination for the Enterprise sector | Voluntary, Community and wellbeing, jobs, Social Enterprise sector critical part this across the West of England. __; in an inclusive | | The CIC will provide a voice The community for the Voluntary, Community | enabling the and Social Enterprise sector sector and their to facilitate engagement, and well-being influence, scrutiny and policy | from the jobs development at a West of and support to England level with the empowering governance structures | contribute to operating at a West of . the West of England or other sub- regional structures or fora If the company makes any surplus it will be for the furtherance of its objects and for the and social enterprise sector within the West of (Please continue n 24/08/2016",
+        "description": "Engiand Civil Society Partnership C.1.C. i | — will benefit through the function Voluntary, Community and Social Enterprise beneficiaries to contribute to inclusive growth across the West of England. This will come it will create, the skills that can be developed, those most disadvantaged and vulnerable - them to benefit so they can participate and ‘ the economic prosperity and social wellbeing of | England now, and in the future. used for...Re-investing in the activities wider development of the voluntary, community England. on separate sheet if necessary.)"
+      }
+    ],
+    "company_differs": "",
+    "surplus_use": "Re-investing in the activities of the CIC for the furtherance of its objects and for the wider development of the voluntary, community and social enterprise sector within the West of England."
+  },
+  "extraction_metadata": {
+    "source_file": "11787055.pdf",
+    "cic36_page": null,
+    "cic36_pages_found": [],
+    "location_confidence": "low",
+    "extraction_method": "ocr_pytesseract_layout",
+    "pages_searched": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49,
+      50,
+      51,
+      52,
+      53,
+      54,
+      55,
+      56,
+      57,
+      58,
+      59,
+      60,
+      61,
+      62,
+      32,
+      33,
+      34
+    ],
+    "extracted_at": "2026-01-14T17:56:40.496258Z",
+    "document_page_count": 62,
+    "avg_chars_per_page": 0.0,
+    "ocr_confidence": "medium",
+    "processing_time": 165.383
+  }
+}

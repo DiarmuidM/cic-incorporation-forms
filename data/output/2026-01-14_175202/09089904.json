@@ -1,0 +1,72 @@
+{
+  "company_number": "09089904",
+  "incorporation_date": null,
+  "document_type": "scanned",
+  "extraction_status": "success",
+  "section_a": {
+    "beneficiaries": "People with Dementia and their Carers"
+  },
+  "section_b": {
+    "activities": [
+      {
+        "activity": "encouraging a well, make lives, will help section of the If the company makes any surplus it will be used Reinvestment to ensure stability, viabilty and reserve so as to manage nisks arising from cash (Please continue",
+        "description": "— meet needs but also individual preferences encourage a home life that is contented, supported. By supporting individuats with live independently at home we aim to reduce anxiety; reduce social isolation; mitigate costs to healthcare interventions, and; support the feel valued and have the ability to pursue their interests/obligations regards work, personal life and their caring role. establish that is informed you increase confidence and reduce the crisis. We aim to preserve the skills and the individual and encourage them to try new outside of the home, for the benefit of others. Promoting a healthy way of life, positive outlook, providing opportunities to live informed choices and have control over their own to shape and develop a happier, healthier community and limit financial and social costs. for . sustainability through-1.the provision of a flow, cont on separate sheet if necessary.)"
+      }
+    ],
+    "company_differs": "",
+    "surplus_use": "Reinvestment to ensure stability, viabilty and sustainability through-1.the provision of a reserve so as to manage risks arising from cash flow, cont"
+  },
+  "extraction_metadata": {
+    "source_file": "09089904.pdf",
+    "cic36_page": null,
+    "cic36_pages_found": [],
+    "location_confidence": "low",
+    "extraction_method": "ocr_pytesseract_layout",
+    "pages_searched": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27
+    ],
+    "extracted_at": "2026-01-14T18:18:37.636440Z",
+    "document_page_count": 46,
+    "avg_chars_per_page": 0.0,
+    "ocr_confidence": "medium",
+    "processing_time": 111.861
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "company_number": "11795970",
+  "incorporation_date": null,
+  "document_type": "scanned",
+  "extraction_status": "success",
+  "section_a": {
+    "beneficiaries": "Local artists of all ages and backgrounds offering a platform for them to sell their work and be part of Leicester’s creative community. Workshops open to all members of the community. Community cohesion through the arts and creative events. ] ’"
+  },
+  "section_b": {
+    "activities": [
+      {
+        "activity": "bespoke craft and sculpture. Creative mentoring artists and alternative Individuals on explaining If the company makes any surplus it will be used Any Surplus will be re introduced into creative CIC's within the city. (Please continue",
+        "description": "Leicester C.1.C. — .) space that will be used as a retail outlet works of art, design and crafts from artists. that will include publicised opening exhibition. where artists can hire the venue to deliver workshops such as jewellery making, painting for students, offering talks with fellow colleagues from creative companies and local education providers. leaving university/college to work within A focus options for the creative arts sectors. for... workshops and collaboration events with other on separate sheet if necessary.)"
+      }
+    ],
+    "company_differs": "",
+    "surplus_use": "Any Surplus will be re introduced into creative workshops and collaboration events with other CIC's within the city."
+  },
+  "extraction_metadata": {
+    "source_file": "11795970.pdf",
+    "cic36_page": null,
+    "cic36_pages_found": [],
+    "location_confidence": "low",
+    "extraction_method": "ocr_pytesseract_layout",
+    "pages_searched": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49,
+      50,
+      51,
+      52,
+      53,
+      54,
+      55,
+      56,
+      57,
+      58,
+      59,
+      60,
+      61,
+      31,
+      32,
+      33,
+      34
+    ],
+    "extracted_at": "2026-01-14T18:00:35.342041Z",
+    "document_page_count": 61,
+    "avg_chars_per_page": 0.0,
+    "ocr_confidence": "medium",
+    "processing_time": 163.125
+  }
+}

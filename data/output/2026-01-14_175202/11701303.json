@@ -1,0 +1,81 @@
+{
+  "company_number": "11701303",
+  "incorporation_date": null,
+  "document_type": "scanned",
+  "extraction_status": "success",
+  "section_a": {
+    "beneficiaries": "socially marginalised women during pregnancy, birth and the initial postnatal period"
+  },
+  "section_b": {
+    "activities": [
+      {
+        "activity": "Birth Partner Support | Peer supporters will women who would support will also be needs and/or limited | role is an informa! ! support measures. It birth partner role supporting mother/baby. addressing the risk of who do not have birth | Postnatal Support Peer supporters will baby is born. Again this complementing the professionals. This positive wellbeing in women facing social If the company makes any surplus it will be used It will be reinvested into the CIC to develop | delivery. |",
+        "description": "| Support CIC — In addition, they will emotional and practical support, complimenting health/social care professionals. This service will by addressing the isolation and health by the most marginalised women during the fulfil a ‘birth partner’ role, predominantly for otherwise not have a birth partner. Birth partner provided for women who have complex support personal support network. The ‘birth partner’ support role, focusing on emotional and practical fulfilling | is essential that peer supporters a collaborate with health/social care professionals This service will benefit the community by poor health outcomes experienced by women partner support. support women in the initial weeks after their support will be both practical and emotional, support provided by health/social care support will benefit the community by promoting the initial postnatal period, and beyond, for marginalisation. for... training opportunities and to expand service | |"
+      }
+    ],
+    "company_differs": "",
+    "surplus_use": "It will be reinvested into the CIC to develop training opportunities and to expand service . Again this . This support ."
+  },
+  "extraction_metadata": {
+    "source_file": "11701303.pdf",
+    "cic36_page": null,
+    "cic36_pages_found": [],
+    "location_confidence": "low",
+    "extraction_method": "ocr_pytesseract_layout",
+    "pages_searched": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49,
+      50,
+      51,
+      52,
+      53,
+      54,
+      55,
+      56,
+      57,
+      58,
+      59,
+      60,
+      61,
+      62,
+      63,
+      64,
+      65,
+      66,
+      67
+    ],
+    "extracted_at": "2026-01-14T18:11:35.540392Z",
+    "document_page_count": 67,
+    "avg_chars_per_page": 0.0,
+    "ocr_confidence": "very_low",
+    "processing_time": 160.014
+  }
+}

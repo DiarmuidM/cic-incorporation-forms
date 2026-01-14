@@ -1,0 +1,72 @@
+{
+  "company_number": "11953321",
+  "incorporation_date": null,
+  "document_type": "scanned",
+  "extraction_status": "success",
+  "section_a": {
+    "beneficiaries": "Vulnerable people including those that need help with finding and sustaining a home and those at risk of homelessness. This will include; Tenancy Management, Support Services and Food and Nutrition was called “home economics” and other additional support and referrals where required including but not limited; to Health and Wellbeing, Employment, Education, Training, Housing, Tenancy Management and Social Housing. The company will also promote the interests and rights of people suffering domestic abuse and help create opportunities for children in care and care leavers"
+  },
+  "section_b": {
+    "activities": [
+      {
+        "activity": "| care leaver and i _ Bialek ex Chair Project (Developed ; | most deprived | —The Help co-ordinate move on company will i; accommodation ' businesses and | accommodation. | Sustainability, | [iF the company makes any surplus it will be used Building up the Reserves, Investing in People , : People including Children in Care and Care Leavers (Please continue",
+        "description": "Galloway Homes | — .) ! will provide supported accommodation in the | that are homeless or in need of housing and otherwise struggle with sustaining their tenancies. | will actively look at strategies for social house | both strategic and operational have vast working with some of the most vulnerable people Norman (Terry) Galloway Trustee of Become, i campaigner for the rights of children in care. Diane | of the Nottinghamshire YMCA and The Zone Youth to reduce gun and knife crime in one of the wards in Nottingham). work with tenants, the educators, | community, Local Authorities to help create move on i This can include but is not limited to help with; Education, Training and Employment Opportunities. for; i and Providing Opportunities for Vulnerable on separate sheet if necessary.) So) lat ge (de"
+      }
+    ],
+    "company_differs": "",
+    "surplus_use": "; Building up the Reserves, Investing in People and Providing Opportunities for Vulnerable People including Children in Care and Care Leavers"
+  },
+  "extraction_metadata": {
+    "source_file": "11953321.pdf",
+    "cic36_page": null,
+    "cic36_pages_found": [],
+    "location_confidence": "low",
+    "extraction_method": "ocr_pytesseract_layout",
+    "pages_searched": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      35,
+      36,
+      37,
+      38,
+      39,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34
+    ],
+    "extracted_at": "2026-01-14T17:57:52.216950Z",
+    "document_page_count": 39,
+    "avg_chars_per_page": 0.0,
+    "ocr_confidence": "medium",
+    "processing_time": 120.101
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "company_number": "10790096",
+  "incorporation_date": null,
+  "document_type": "scanned",
+  "extraction_status": "success",
+  "section_a": {
+    "beneficiaries": "people who live in Cobridge, one of the most disadvantaged areas of Stoke on Trent. In particular the company will advance the wellbeing of the community by improving residents’ relationships, access to activities and quality of life"
+  },
+  "section_b": {
+    "activities": [
+      {
+        "activity": "It think To provide opportunities for | Greater local people who are often meet together isolated and under stressto | Increased social come together to improve Being involved understanding, increase Becoming active social trust and enhance community cohesion. To provide opportunities for | improved people to learn new skills, Reduced isolation gain knowledge and Improved experience that will improve | Improved their quality of life. Development Better career Increased If the company makes any surplus it will be (Please continue",
+        "description": "— C.1.C ot. — ) opportunities for individuals and communities to and support each other capital in healthy and life enhancing activities citizens wellbeing cross-cultural relationships communication of new skills options employment, training or volunteering opportunities used for re-investing in community development on separate sheet if necessary.)"
+      }
+    ],
+    "company_differs": "",
+    "surplus_use": "re-investing in community development How will the activity benefit the community? (The community will benefit by..."
+  },
+  "extraction_metadata": {
+    "source_file": "10790096.pdf",
+    "cic36_page": null,
+    "cic36_pages_found": [],
+    "location_confidence": "low",
+    "extraction_method": "ocr_pytesseract_layout",
+    "pages_searched": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49,
+      50,
+      51,
+      52,
+      53,
+      54,
+      55,
+      56,
+      57,
+      58,
+      59,
+      60,
+      61,
+      62,
+      63,
+      64,
+      65,
+      66
+    ],
+    "extracted_at": "2026-01-14T18:02:47.662383Z",
+    "document_page_count": 66,
+    "avg_chars_per_page": 0.0,
+    "ocr_confidence": "medium",
+    "processing_time": 153.409
+  }
+}

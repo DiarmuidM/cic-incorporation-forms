@@ -1,0 +1,70 @@
+{
+  "company_number": "07243099",
+  "incorporation_date": null,
+  "document_type": "scanned",
+  "extraction_status": "success",
+  "section_a": {
+    "beneficiaries": "Insert a short description of the community, or section of the community, which it is intended that the company will benefit in the rovided below ]2 The company’s activities will provide benefit to ... residents of Comwall, especially women going through permenopause and the menopause. NN ‘A72G3JK5 it) 29/04/2010 3 4 15"
+  },
+  "section_b": {
+    "activities": [
+      {
+        "activity": "and unblased education healthcare There fee! lost as to what understanding of the kind of help they partners, family changes in their lives setf-understanding women going through leaming and action (b)Raise awareness amongst (b) GPs are stressed GPs . and options ‘the Change’ there on issues a make themselves woman faces tn ‘the Change’ unbiased easy, through an informal program of | ant-depressants, the tatest medical research on | prescnbed tn haste ene 5 5 Che suppor for women natural endocnne and more health in the ange tnereoy that are already providing a bndge for more long term benefits effective health care for women]| Self Care (MSC) to as they age. ways and for women their own health that with this approach If the company makes any surplus it will be used Any surplus will be reinvested into the business. ES (Please continue",
+        "description": "Self Care (MSC) — Women need to aware of all the options available to them and GPs need info research source to help women Too often dizziness medication and other pharmaceuticals are as there is little tme to consider the already approved support options GPs are not aware of the less expensive promoting natural-acting options taken in a cyclical fashion approved by NICE and in the BNF, now showing short and | for women as they age _ It ts the intention of Menopause offer the chance for GPs to support women tn nounshing to make the nutntion and lifestyle changes to support care as they age tts the hope of Menopause Self Care money will be saved and women will feel better for .. a on separate continuation sheet if necessary.) ™. ™"
+      }
+    ],
+    "company_differs": "",
+    "surplus_use": "Any surplus will be reinvested into the business."
+  },
+  "extraction_metadata": {
+    "source_file": "07243099.pdf",
+    "cic36_page": null,
+    "cic36_pages_found": [],
+    "location_confidence": "low",
+    "extraction_method": "ocr_pytesseract_layout",
+    "pages_searched": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      35,
+      36,
+      37,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34
+    ],
+    "extracted_at": "2026-01-14T18:00:14.251984Z",
+    "document_page_count": 37,
+    "avg_chars_per_page": 0.0,
+    "ocr_confidence": "medium",
+    "processing_time": 131.729
+  }
+}

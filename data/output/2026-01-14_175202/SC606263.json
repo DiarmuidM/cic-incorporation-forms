@@ -1,0 +1,79 @@
+{
+  "company_number": null,
+  "incorporation_date": null,
+  "document_type": "scanned",
+  "extraction_status": "success",
+  "section_a": {
+    "beneficiaries": "EF The company’s activities will provide benefit to ... The community is based around a community called \"Speedrunners” that complete Video Games in the fastest time they possibly can, UKSG is a marathon that is used to allow people showcase the games they play within an estimated time they provide, it is streamed online for people to watch and can contribute to the funds being raised. People can donate money and have the option to put money towards “incentives” for the games being played that can change how the game is played or change specific items within the game. The company’s activities will provide benefit to charities that have been chosen upon from people within the community from a vote and the chosen charity will be the focus of the Marathon"
+  },
+  "section_b": {
+    "activities": [
+      {
+        "activity": "",
+        "description": "Kingdom Speedrunner Gathering C.I.C — activities will benefit the community, or detail as possible to .) people to donate money for the selected put towards different types of incentives how a game is run or a specific part of the people can have an option to donate directly amount which is given to the incentive. for... for investing in new equipment to help the to provide a better viewer experience and held. separate sheet if necessary.)"
+      }
+    ],
+    "company_differs": "",
+    "surplus_use": "If the company makes any surplus it will be used for investing in new equipment to help the marathon grow, increase the quality of the stream to provide a better viewer experience and to provide a space for a venue for the event to be held."
+  },
+  "extraction_metadata": {
+    "source_file": "SC606263.pdf",
+    "cic36_page": null,
+    "cic36_pages_found": [],
+    "location_confidence": "low",
+    "extraction_method": "ocr_pytesseract_layout",
+    "pages_searched": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49,
+      50,
+      51,
+      52,
+      53,
+      54,
+      55,
+      56,
+      57,
+      58,
+      59,
+      60,
+      61,
+      31,
+      32,
+      33,
+      34
+    ],
+    "extracted_at": "2026-01-14T18:05:21.591622Z",
+    "document_page_count": 61,
+    "avg_chars_per_page": 0.0,
+    "ocr_confidence": "medium",
+    "processing_time": 153.929
+  }
+}

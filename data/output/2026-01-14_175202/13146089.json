@@ -1,0 +1,60 @@
+{
+  "company_number": "13146089",
+  "incorporation_date": null,
+  "document_type": "scanned",
+  "extraction_status": "error",
+  "section_a": {
+    "beneficiaries": "Insert a short description of the com fi he communi iti ni the. company will We BE The company’s activities will provide benefit to ... Disadvantaged school aged children in the London Borough of Redbridge who are excluded from education as‘a result of a lack of devices and broadband internet connection. As we havea high proportion of BAME families in the borough it is expected that this section. of our community will also benefit fromthe activities of thé company"
+  },
+  "section_b": {
+    "activities": [],
+    "company_differs": "",
+    "surplus_use": ""
+  },
+  "extraction_metadata": {
+    "source_file": "13146089.pdf",
+    "cic36_page": null,
+    "cic36_pages_found": [],
+    "location_confidence": "low",
+    "extraction_method": "ocr_pytesseract",
+    "pages_searched": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31
+    ],
+    "extracted_at": "2026-01-14T18:07:59.420853Z",
+    "document_page_count": 31,
+    "avg_chars_per_page": 0.0,
+    "error": "CIC 36 form found on page 31 but Section B not detected on following pages",
+    "ocr_confidence": "unknown",
+    "processing_time": 97.431
+  }
+}

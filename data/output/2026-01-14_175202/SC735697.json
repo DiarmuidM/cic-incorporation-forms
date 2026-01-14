@@ -1,0 +1,57 @@
+{
+  "company_number": null,
+  "incorporation_date": null,
+  "document_type": "hybrid",
+  "extraction_status": "success",
+  "section_a": {
+    "beneficiaries": "The company’® activities will provide benefit to ... The public, small businesses and most importantly the environment. Our goal is to show and teach individuals on how to become part of zero waste culture, recycling their own plastic, sorting it in the proper way, then create and reuse as they see fit. The main goal is to show them exactly the benefits, not only for themselves, but for the environment and how big of a positive impact it will have in the future"
+  },
+  "section_b": {
+    "activities": [
+      {
+        "activity": "It think Activities How Recycling of plastic waste | Recycling which mainly consists of | extract new (2-HDPE) (4-LDPE) (5-PP) | lessens the plastics. done to the rivers diverted, less pollution Recycling Creating a user friendly Plastic and cost-efficient plastic practical extruder, which will be extrusion able to be set-up in any continuous local business to crush, minimal melt and create new rather than plastic products. We will have different types of these machines Crusher, which includes:\nHosting of work shops In these how to start help them also teach products people to but actively Workshop and working We will have space the public user-friendly how the actively that will be decrease the from the We will this process, on a different blue bin. If the company makes any surplus, it will be The Goal of Ayzn Group is to expand this easy and setting up workshops around United plastics around the coastal areas and all-around be handed out to communities that does not (Please continue",
+        "description": "Group CIC — ) reduces the need to grow, harvest or raw materials from the Earth. That in turn harmful disruption and damage being natural world: fewer forests cut down, wild animals harmed or displaced, and of water, soil, and air. creates jobs, producing economic benefits extrusion offers an efficient, economical, and method for producing plastic products: The process is fast and efficient at producing shapes in varying lengths and there is wastage, this allows the waste to be reused be discarded. Extruder, mould injector and sheet press\nworkshops, we will be teaching individuals and build an extruder machine, that will recycle their own plastic waste. We will them on how to create new and inventive form these plastics. This will encourage start recycling not just their own plastics, looking for plastic waste to be reused. a working space that will be available for to come in and take a tour around these machines, so that they can see first hand operation works. In this workshop we will recycle, reuse and create new plastic products environmentally friendly and help number of metals and trees being taken natural habitat. encourage people to use and participate in so they would get familiar with recycling scale, rather than discarding it in the used for... to implement process to all small businesses Kingdom. Funds will be used for cleaning up of cities. Donations of these machines will also have the funds to invest in them. on separate sheet if necessary.)"
+      }
+    ],
+    "company_differs": "",
+    "surplus_use": "it will be used for... The Goal of Ayzn Group is to expand this easy to implement process to all small businesses and setting up workshops around United Kingdom. Funds will be used for cleaning up of plastics around the coastal areas and all-around cities."
+  },
+  "extraction_metadata": {
+    "source_file": "SC735697.pdf",
+    "cic36_page": null,
+    "cic36_pages_found": [],
+    "location_confidence": "low",
+    "extraction_method": "ocr_pytesseract_layout",
+    "pages_searched": [
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37
+    ],
+    "extracted_at": "2026-01-14T18:08:55.526116Z",
+    "document_page_count": 37,
+    "avg_chars_per_page": 114.05,
+    "processing_time": 92.534
+  }
+}

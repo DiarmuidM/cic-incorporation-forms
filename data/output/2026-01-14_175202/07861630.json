@@ -1,0 +1,74 @@
+{
+  "company_number": "07861630",
+  "incorporation_date": null,
+  "document_type": "scanned",
+  "extraction_status": "success",
+  "section_a": {
+    "beneficiaries": "The Children’s and Young Peoples Workforce sector including; Early Years Settings Children’s Centres Out of Schools Club Pre and Play Schools Childminders Primary Schools Foster Carers Community Playgroup and ° Volunteers"
+  },
+  "section_b": {
+    "activities": [
+      {
+        "activity": "It think Activities How Deliver Discover programmes | By training which fs an introduction the unemployment training courses into childcare | with Job Centre or teaching assistant, or we can target health and social care. deprivation give people Deliver training programmes | By delivering aimed at early years early years to practioners, parents and with these. childrens centre staff. These | development, training sessions are around | children and parenting and child life supprt, development the childrens schools. If the company makes any surplus it will be Reinvest any surplus into the company to centres around the borough (Please continue",
+        "description": "a. Consultancy — training to experienced practitioners staff within recognise parents emotions and how to deal Also delivering courses for parents on child childhood emotions and how to play with encourage their learning. Also delivering basic equality and diversity courses will be delivered via centres for anyone in their community and used for. deliver additional bespoke training to childrens on separate continuation sheet if necessary.)"
+      }
+    ],
+    "company_differs": "",
+    "surplus_use": "Reinvest any surplus into the company to deliver additional bespoke training to childrens centres around the borough"
+  },
+  "extraction_metadata": {
+    "source_file": "07861630.pdf",
+    "cic36_page": null,
+    "cic36_pages_found": [],
+    "location_confidence": "low",
+    "extraction_method": "ocr_pytesseract_layout",
+    "pages_searched": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34
+    ],
+    "extracted_at": "2026-01-14T18:10:56.523646Z",
+    "document_page_count": 41,
+    "avg_chars_per_page": 0.0,
+    "ocr_confidence": "medium",
+    "processing_time": 136.019
+  }
+}

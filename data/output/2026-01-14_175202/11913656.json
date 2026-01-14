@@ -1,0 +1,79 @@
+{
+  "company_number": "11913656",
+  "incorporation_date": null,
+  "document_type": "scanned",
+  "extraction_status": "success",
+  "section_a": {
+    "beneficiaries": "In particular, the company’s activities will be conducted for the benefit of people from under-represented backgrounds within the Leeds city region who wish to interact with their community and engage with cultural producers in the North of England via creative journalism and digital publishing"
+  },
+  "section_b": {
+    "activities": [
+      {
+        "activity": "It think Activities How General: running an online magazine While Leeds with a strong community focus, and population would providing rich opportunities for culture and place, cultural engagement. Tegion and beyond. time jobs, paid and help strengthen Commissioning and curating comment | The website will on the diversity of local cultural particular, encourage provision, introducing new and under- | believe this will represented voices; mentoring and rich diversity of developing skills and confidence in cultural creativity so individuals may We would also like participate widely in the cultural | 4% establishing more industries. to broaden and Provide an entertaining and engaging The local press is online magazine presence catering to and more mainstream the wider interests of the city region straightforward and beyond. anything at all). vibrant diversity If the company makes any surplus it will be { | We expect that any surplus will be reinvested in the business (Please continue",
+        "description": "VULTURE (PUBLISHING) CIC — ) possesses a handful of listing and review websites, the city’s benefit from an produced site which focuses on and which encourages a critical conversation with the city The company wilt provide a number of full-time and part- commissions and opportunities for other creative contributions, community engagement and participation. provide access for regional based cultural producers, and, in contributions from new and unpublished voices. We generate active critical participation and grow awareness of the the local cultural offer. to build on existing links with other cultural providers, as well new and productive connections with local community networks, improve conversations between different groups. an inconsistent limited presence, tending to focus on larger cultural activity. Likewise, the city’s websites focus on listings or a passive promotion of headline events (if they cover There is need for an independent cultural voice to reflect the of what the city and surrounding region has to offer used for... and the local cultural community. on separate sheet if necessary.)"
+      }
+    ],
+    "company_differs": "",
+    "surplus_use": "We expect that any surplus will be reinvested in the business and the local cultural community. Neen nta @ ae eee ee"
+  },
+  "extraction_metadata": {
+    "source_file": "11913656.pdf",
+    "cic36_page": null,
+    "cic36_pages_found": [],
+    "location_confidence": "low",
+    "extraction_method": "ocr_pytesseract_layout",
+    "pages_searched": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49,
+      50,
+      51,
+      52,
+      53,
+      54,
+      55,
+      56,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34
+    ],
+    "extracted_at": "2026-01-14T18:16:55.093931Z",
+    "document_page_count": 56,
+    "avg_chars_per_page": 0.0,
+    "ocr_confidence": "medium",
+    "processing_time": 150.726
+  }
+}

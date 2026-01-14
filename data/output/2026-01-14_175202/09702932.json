@@ -1,0 +1,74 @@
+{
+  "company_number": "09702932",
+  "incorporation_date": null,
+  "document_type": "scanned",
+  "extraction_status": "success",
+  "section_a": {
+    "beneficiaries": "rE The company’s activities will provide benefit to ... The local community including but not limited to those with learning difficulties, emotional needs, dementia, poor social skills, low self esteem , recovering addicts and the long term unemployed. CNT A27 24/06/2015 #410"
+  },
+  "section_b": {
+    "activities": [
+      {
+        "activity": "We also wish to learn | day running of and teach about our local funding and heritage including the role of | would benefit horses through history and horses in agriculture. If the company makes any surplus it will be greater equipment and facilities to enable us to (Please continue",
+        "description": "Hooves Equine Assisted Learning C.I.C. — include reliving stress, increasing confidence, trust issues, developing new skills including team working and many others. Becoming a CIC be involved tn decision making and the day to the company yet still allowing us to access grants that will help subsidise those clients who but are unable to fund themselves. used for reinvestment into the business for help more clients. on separate sheet if necessary.)"
+      }
+    ],
+    "company_differs": "",
+    "surplus_use": "reinvestment into the business for greater equipment and facilities to enable us to help more clients. —E{]{]{&—q&&&&&&qqqq&=&=ee=«&(&=[=[—]_=z=a=xa@==ee&K&iqx_q&q—q>>—&q&e—~e—~—q&K&i—i—i—<&<&a—iiii—EEEE="
+  },
+  "extraction_metadata": {
+    "source_file": "09702932.pdf",
+    "cic36_page": null,
+    "cic36_pages_found": [],
+    "location_confidence": "low",
+    "extraction_method": "ocr_pytesseract_layout",
+    "pages_searched": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34
+    ],
+    "extracted_at": "2026-01-14T18:12:57.291815Z",
+    "document_page_count": 41,
+    "avg_chars_per_page": 0.0,
+    "ocr_confidence": "medium",
+    "processing_time": 136.646
+  }
+}

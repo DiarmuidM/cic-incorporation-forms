@@ -1,0 +1,70 @@
+{
+  "company_number": "12681895",
+  "incorporation_date": null,
+  "document_type": "scanned",
+  "extraction_status": "success",
+  "section_a": {
+    "beneficiaries": "al The company’s activities will provide benefit to ... Workers, companies and organisations in the solar renewable industry, by developing, informing and training all for a safer working environment. We will offer new and existing solar qualification driven by safety and innovation, inform and assist the solar industry to ensure a safer workplace for the workforce. We will also link and share safety best practice and information to anyone working in the solar renewables industry to reduce risk and protect workers"
+  },
+  "section_b": {
+    "activities": [
+      {
+        "activity": "It think Activities How Reduce risk Train and Educate industry and the NHS existing maintained based training people in Develop & inform Inform a better solar renewables organisations safe working of information If the company makes any surplus it will be Training, education courses and development (Please continue",
+        "description": "solar Safety Association — ) of injuries sustained in the solar renewables workforce and the burden placed on organisation from workplace accidents. Further educate workforces to a safer working environment is using existing qualification and new industry and skills. This includes school leavers and apprenticeships understanding of workplace safety in the industry, and link and develop with other and manufacturers to encourage best practice, environments, new technologies and the sharing that creates a safer industry used for... of information and communication on separate sheet if necessary.)"
+      }
+    ],
+    "company_differs": "",
+    "surplus_use": "Training, education courses and development of information and communication"
+  },
+  "extraction_metadata": {
+    "source_file": "12681895.pdf",
+    "cic36_page": null,
+    "cic36_pages_found": [],
+    "location_confidence": "low",
+    "extraction_method": "ocr_pytesseract_layout",
+    "pages_searched": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      35,
+      36,
+      37,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34
+    ],
+    "extracted_at": "2026-01-14T18:14:56.093214Z",
+    "document_page_count": 37,
+    "avg_chars_per_page": 0.0,
+    "ocr_confidence": "medium",
+    "processing_time": 112.583
+  }
+}

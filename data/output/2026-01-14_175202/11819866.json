@@ -1,0 +1,79 @@
+{
+  "company_number": "11819866",
+  "incorporation_date": null,
+  "document_type": "scanned",
+  "extraction_status": "success",
+  "section_a": {
+    "beneficiaries": "artists, organisations and individuals that live, work in or visit or otherwise have an interest in Ryde, the Isle of Wight and, where deemed appropriate, other communities with links to the town of Ryde in the Isle of Wight"
+  },
+  "section_b": {
+    "activities": [
+      {
+        "activity": "The CIC will secure funding a) Provides | from Ryde Town Council, Arts | their skills and | Council England and other b) Public displays | sources to commission work | art accessible : from makers, artists and these out : performers. c) Beneficial : as the works venues throughout space eg empty encouraging If the company makes any surplus it will be (Please continue",
+        "description": "CIC — .) Enrichment — through participation, or enjoying as a spectator, large numbers of the be engaging with art in a way that they might have done. b) Loneliness, Confidence and Self- activities will bring people together that be isolated and the public display of their confidence and self-esteem. Activities will subsidised/affordable levels. opportunities for local artists and makers to grow careers in their own community. and performances in the community makes to individuals who might not otherwise seek impact on the appearance and feel of the town created are displayed or performed in various the town otherwise unused shop windows and unused station platform) visitors to the town and pride in our community. | used for continuing its work in future years. | | on separate sheet if necessary.)"
+      }
+    ],
+    "company_differs": "",
+    "surplus_use": "continuing its work in future years. ——"
+  },
+  "extraction_metadata": {
+    "source_file": "11819866.pdf",
+    "cic36_page": null,
+    "cic36_pages_found": [],
+    "location_confidence": "low",
+    "extraction_method": "ocr_pytesseract_layout",
+    "pages_searched": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49,
+      50,
+      51,
+      52,
+      53,
+      54,
+      55,
+      56,
+      57,
+      58,
+      59,
+      60,
+      61,
+      62,
+      63,
+      33,
+      34
+    ],
+    "extracted_at": "2026-01-14T18:08:10.769471Z",
+    "document_page_count": 63,
+    "avg_chars_per_page": 0.0,
+    "ocr_confidence": "medium",
+    "processing_time": 155.972
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "company_number": "12435751",
+  "incorporation_date": null,
+  "document_type": "scanned",
+  "extraction_status": "success",
+  "section_a": {
+    "beneficiaries": "al The company’s activities will provide benefit to ... Members of the fitness facility and any visitors; we will have an open door policy so anyone from the local area of Abergavenny (& beyond) will be welcome. They will be welcome to train during the “open gym” times and/or take part in any of the classes. Classes will run 3 times per day during the week and on a Saturday morning. We also have plans to run classes for children on a Sunday but this is yet to be decided"
+  },
+  "section_b": {
+    "activities": [
+      {
+        "activity": "The beyond) to train at the “open | commercial gym” and/or at any of the x3 | costs, and there classes per weekday and x1 investment. on a Saturday morning. The facility has also given Income will be members/visitors the chance | have managed to make new friends/socialise | surplus being plus rehabilitate many victims | thereof. Coaches of accidents or illness range of skills (strokes etc) cover things to create a I have decided to launch this | leading equipment. Community Interest Company following the collapse of the | I am a successful current “commercial” and inclination business (Keepersfit), which I | no need to had no involvement in perspective and running (apart from being a philanthropic gym member) disappointed and I wanted rates so highly\nContinued..... As a businessman profit generating” make money, therefore see Interest Company of the members Lastly, as I to offer support rehabilitation If the company makes any surplus it will be Reinvestment into the facility by way of purchasing current inventory. If we reach a point where reduce membership / visitor fees. (Please continue",
+        "description": "— I have draw anything from the business from a financial plan to incorporate this with my other activities. All of the members were severely when they found out that Keepersfit was closing to act to a) keep a facility going which everyone and b) improve it.\nI have looked at the current “commercial / model and cannot see how it could ever especially when it has to pay salaries etc. I the only option is to run it as a Community and pull on the skills / generosity of some to create a fitness facility that can survive. have mentioned the facilty has, and will, continue to victims of accidents and illness by way of through exercise. used for... new equipment, or maintaining the there is no requirement for the above we will on separate sheet if necessary.)"
+      }
+    ],
+    "company_differs": "",
+    "surplus_use": "Reinvestment into the facility by way of purchasing new equipment, or maintaining the current inventory. If we reach a point where there is no requirement for the above we will reduce membership / visitor fees."
+  },
+  "extraction_metadata": {
+    "source_file": "12435751.pdf",
+    "cic36_page": null,
+    "cic36_pages_found": [],
+    "location_confidence": "low",
+    "extraction_method": "ocr_pytesseract_layout",
+    "pages_searched": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34
+    ],
+    "extracted_at": "2026-01-14T18:16:47.839483Z",
+    "document_page_count": 40,
+    "avg_chars_per_page": 0.0,
+    "ocr_confidence": "medium",
+    "processing_time": 130.975
+  }
+}

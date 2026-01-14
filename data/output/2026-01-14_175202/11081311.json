@@ -1,0 +1,79 @@
+{
+  "company_number": "11081311",
+  "incorporation_date": null,
+  "document_type": "scanned",
+  "extraction_status": "success",
+  "section_a": {
+    "beneficiaries": "Vulnerable 14-19 year olds from the loca) community, who may have fallen out of education, employment or training and who require the guidance to follow beneficial pathways and fulfil their potential. Young people at risk of not achieving in school and becoming marginalised in society. Agencies, such as schools and support services, by working with young people and their families on a prevention programme. We will work with them to improve physical and mental health, problem solving skills, their lifestyle and to raise aspirations"
+  },
+  "section_b": {
+    "activities": [
+      {
+        "activity": "| engaged in education and the community. This Offering includes Bite size sessions | in sports in Sport and Music and vocational visits to Raise aspirations growth areas of industry, which otherwise wouldn’t | Helps build be accessible due to risk opportunity factors in school. Gives students lifestyles. | We will identify growth This gives our | | areas of employment in begin a career, | the region and engage young people with employers. |\n‘ Identify students via We hope to : schools at Y8/9 before track with they are excluded. importance Prevention service for 2 academic weeks or 10 single day sessions | If the company makes any surplus it will be Re-investment into facilities and resources specified target groups. | (Please continue",
+        "description": "| Engagement, Training & Inclusion CIC — .) the possibility of gaining nationally qualifications in Sport, English and Maths succeed in education and kick-start a pathways into voluntary or paid employment coaching and the leisure industry. and self-esteem. . ! confidence and gives students the : to become more independent. i the chance to explore different | | I students the best possible chance to exploring a variety of pathways. | 1\nbenefit students by getting them back on their education, making them realise it’s and allowing them to maximise their potential. used for... in order to continue to cater for the eee oO on separate sheet if necessary.)"
+      }
+    ],
+    "company_differs": "",
+    "surplus_use": "Re-investment into facilities and resources in order to continue to cater for the"
+  },
+  "extraction_metadata": {
+    "source_file": "11081311.pdf",
+    "cic36_page": null,
+    "cic36_pages_found": [],
+    "location_confidence": "low",
+    "extraction_method": "ocr_pytesseract_layout",
+    "pages_searched": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49,
+      50,
+      51,
+      52,
+      53,
+      54,
+      55,
+      56,
+      57,
+      58,
+      59,
+      60,
+      30,
+      31,
+      32,
+      33,
+      34
+    ],
+    "extracted_at": "2026-01-14T18:02:05.192920Z",
+    "document_page_count": 60,
+    "avg_chars_per_page": 0.0,
+    "ocr_confidence": "medium",
+    "processing_time": 161.865
+  }
+}

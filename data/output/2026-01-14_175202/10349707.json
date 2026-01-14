@@ -1,0 +1,79 @@
+{
+  "company_number": "10349707",
+  "incorporation_date": null,
+  "document_type": "scanned",
+  "extraction_status": "success",
+  "section_a": {
+    "beneficiaries": "Liverpool’s local artist community and recent graduates from NW universities. The company’s activities will provide benefit to Liverpool's local artists and artist community. Artists practising across the North-West, national and international artists. Graduates and students particularly from Liverpool John Moores University"
+  },
+  "section_b": {
+    "activities": [
+      {
+        "activity": "If the company makes any surplus it will be used Any surplus funds will be used to further support will be used to enhance our current facilities, for the studios to be successful in producing high (Please continue",
+        "description": "Studios —\nfor the studios, workshop and event space. It allowing us to purchase new equipment in order quality artwork. on separate sheet if necessary.)"
+      }
+    ],
+    "company_differs": "",
+    "surplus_use": "Any surplus funds will be used to further support the studios, workshop and event space. It will be used to enhance our current facilities, allowing us to purchase new equipment in order for the studios to be successful in producing high quality artwork."
+  },
+  "extraction_metadata": {
+    "source_file": "10349707.pdf",
+    "cic36_page": null,
+    "cic36_pages_found": [],
+    "location_confidence": "low",
+    "extraction_method": "ocr_pytesseract_layout",
+    "pages_searched": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49,
+      50,
+      51,
+      52,
+      53,
+      54,
+      55,
+      56,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34
+    ],
+    "extracted_at": "2026-01-14T18:03:12.729458Z",
+    "document_page_count": 56,
+    "avg_chars_per_page": 0.0,
+    "ocr_confidence": "medium",
+    "processing_time": 150.142
+  }
+}

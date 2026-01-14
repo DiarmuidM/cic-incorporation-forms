@@ -1,0 +1,48 @@
+# CIC Incorporation Document Extraction Pipeline
+# Install with: pip install -r requirements.txt
+#
+# SYSTEM DEPENDENCIES (not installable via pip):
+#
+# 1. Tesseract OCR - Required for scanned/hybrid document processing
+#    Windows: Download from https://github.com/UB-Mannheim/tesseract/wiki
+#             Or: choco install tesseract
+#    After install, ensure 'tesseract' is in your system PATH.
+#
+# 2. Poppler - Required for pdf2image
+#    Windows: https://github.com/oschwartz10612/poppler-windows/releases
+#             Or: choco install poppler
+
+# =============================================================================
+# Core PDF Processing
+# =============================================================================
+pypdf>=3.0.0
+pdfplumber>=0.9.0
+
+# =============================================================================
+# OCR for Scanned Documents
+# =============================================================================
+pytesseract>=0.3.10
+pdf2image>=1.16.0
+
+# =============================================================================
+# Optional: Image Preprocessing for OCR (improves extraction quality)
+# =============================================================================
+# Uncomment to enable image preprocessing features (adaptive thresholding, etc.)
+# opencv-python>=4.8.0
+# numpy>=1.24.0
+
+# =============================================================================
+# Data Processing & Analysis
+# =============================================================================
+pandas>=2.0.0
+
+# =============================================================================
+# Evaluation Framework
+# =============================================================================
+# Excel export for validation worksheets
+openpyxl>=3.1.0
+
+# =============================================================================
+# Progress & Utilities
+# =============================================================================
+tqdm>=4.65.0

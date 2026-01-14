@@ -1,0 +1,71 @@
+{
+  "company_number": "12372391",
+  "incorporation_date": null,
+  "document_type": "scanned",
+  "extraction_status": "success",
+  "section_a": {
+    "beneficiaries": "The main aim of the company is to undertake robust independent social work assessments to support contact for children of separated families in the home and the community. As parents contemplate the next steps on separation, we step in during court proceedings to ensure the experience is hitch free for children; we will assist with conducting assessments in familiar environments and community surrounding to speed up the process, The company’s activities will provide benefit to... « Separated parents who are going through disputes with regard to contact with their children «® Children from separated families who need contact with their parents provide services to separated families regarding children contact « Councils who administer contact for children from separated | | | | | ® The Courts/Judiciary and other ancillary organisations who | | families | | | | [ LINKINGFAMILIES INDEPENDENT SOCIAL |"
+  },
+  "section_b": {
+    "activities": [
+      {
+        "activity": "Piease indicate how it is proposed that the Please provide as Regulator to make an",
+        "description": "LINKINGFAMILIES INDEPENDENT SOCIAL — .) 1 | will be able to have contacts between parents within their natural environment as opposed to not familiar with. will be home based, the contact can be time with little or no waiting time thus speeding up a lot of court time. up the process, enabling the community to quickly. resolve disputes and bring families together the much-needed support that separated their children require with regard to contact. : through civic and educational activities and the those who cant afford. on separate sheet if necessary.)"
+      }
+    ],
+    "company_differs": "",
+    "surplus_use": "i | The funds will be reinvested into the communi ity through civic and educational activities and [sone will be used in subsidizing the service for the those who cant afford. |"
+  },
+  "extraction_metadata": {
+    "source_file": "12372391.pdf",
+    "cic36_page": null,
+    "cic36_pages_found": [],
+    "location_confidence": "low",
+    "extraction_method": "ocr_pytesseract_layout",
+    "pages_searched": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      35,
+      36,
+      37,
+      38,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34
+    ],
+    "extracted_at": "2026-01-14T18:14:36.863904Z",
+    "document_page_count": 38,
+    "avg_chars_per_page": 0.0,
+    "ocr_confidence": "medium",
+    "processing_time": 114.221
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "company_number": "11277752",
+  "incorporation_date": null,
+  "document_type": "scanned",
+  "extraction_status": "success",
+  "section_a": {
+    "beneficiaries": "P The company’s activities will provide benefit to ... THE HOMELESS, THE VULNERABLE AND THOSE FACING HOMELESSNESS, SUPPORTING THEM IN SHELTERED HOUSING TO PROGRESS TO INDEPENDENT LIVING WITHIHN A TWO-YEAR PERIOD IN HULL AND THE SURROUNING AREA"
+  },
+  "section_b": {
+    "activities": [
+      {
+        "activity": "| LIVING | | If the company makes any surplus it will be | ! PROVIDING ADDITIONAL SERVICES AND (Please continue n 24/08/2016",
+        "description": "STONES PROJECT | — .) HOMELESS PERSON OFF THE STREETS INTO | HOUSING ENABLING THEM WITH THE HELP OF WORKER TO EVENTUALLY REINTEGTRATE AND CONTRIBUTING MEMBER OF SOCIETY. : TENANTS WITH FRESH CONFIDENCE AND ALLOWING THEM TO FEEL THEY HAVE THE AND ABILITY TO REINTEGRATE INTO used for... SUPPORT TO THE TARGETED CLIENT BASE. on separate sheet if necessary.)"
+      }
+    ],
+    "company_differs": "",
+    "surplus_use": "PROVIDING ADDITIONAL SERVICES AND SUPPORT TO THE TARGETED CLIENT BASE. i"
+  },
+  "extraction_metadata": {
+    "source_file": "11277752.pdf",
+    "cic36_page": null,
+    "cic36_pages_found": [],
+    "location_confidence": "low",
+    "extraction_method": "ocr_pytesseract_layout",
+    "pages_searched": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49,
+      50,
+      51,
+      52,
+      53,
+      54,
+      55,
+      56,
+      57,
+      58,
+      59,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34
+    ],
+    "extracted_at": "2026-01-14T18:17:12.892377Z",
+    "document_page_count": 59,
+    "avg_chars_per_page": 0.0,
+    "ocr_confidence": "medium",
+    "processing_time": 146.204
+  }
+}

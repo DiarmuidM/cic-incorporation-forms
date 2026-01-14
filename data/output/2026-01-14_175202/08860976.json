@@ -1,0 +1,76 @@
+{
+  "company_number": "08860976",
+  "incorporation_date": null,
+  "document_type": "scanned",
+  "extraction_status": "success",
+  "section_a": {
+    "beneficiaries": "In particular, the company's activities will be carried out for the benefit of those wanting somewhere to go during the day or night that is alcoho! free"
+  },
+  "section_b": {
+    "activities": [
+      {
+        "activity": "in the evening Our company : might be called | alcoho! free | | | To help those affected by In addition, | alcoholism and addiction. affected by | work/volunteer | confidence to 1 If the company makes any surplus it will be We hope to generate a surplus from trading. | business spent projects that have social or on (Please continue",
+        "description": "Canvas CIC — aims to address this problem by providing what ‘alternatives to going to the pub’ - serving drinks, cakes and snacks. through this venture, we aim also to help those addiction and alcoholism, who can come and with so they can develop basic skills and hopefully take the next steps in their lives. used for... We expect that this will be reinvested in the impact. on separate sheet if necessary.)"
+      }
+    ],
+    "company_differs": "",
+    "surplus_use": "We hope to generate a surplus from trading. We expect that this will be reinvested in the business or spent on projects that have social impact."
+  },
+  "extraction_metadata": {
+    "source_file": "08860976.pdf",
+    "cic36_page": null,
+    "cic36_pages_found": [],
+    "location_confidence": "low",
+    "extraction_method": "ocr_pytesseract_layout",
+    "pages_searched": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34
+    ],
+    "extracted_at": "2026-01-14T18:02:33.188441Z",
+    "document_page_count": 43,
+    "avg_chars_per_page": 0.0,
+    "ocr_confidence": "medium",
+    "processing_time": 147.404
+  }
+}

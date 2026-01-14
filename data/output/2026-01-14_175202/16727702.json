@@ -1,0 +1,57 @@
+{
+  "company_number": "16727702",
+  "incorporation_date": null,
+  "document_type": "hybrid",
+  "extraction_status": "success",
+  "section_a": {
+    "beneficiaries": "The Temple of Sovereign Restoration CIC will serve individuals, families, and communities who are experiencing hardship, disempowerment, or marginalisation, with a focus on those affected by housing insecurity, health challenges, trauma, and social exclusion in the UK and internationally. Version 13 - Last Updated an 14/08/2025"
+  },
+  "section_b": {
+    "activities": [
+      {
+        "activity": "The It will also provide cultural education and spiritual support through restorative practices, creative expression, and community-based projects.\nIf the company makes any surplus, it will be Locked Body you will need to include the wording application will be rejected). All assets and profits of the Temple of support the community purposes described distributed to members, directors, or third regulations. (Please continue",
+        "description": "will need to be consistent throughout the application — The wider community will stronger connections, shared cultural and increased community cohesion.\nused for... ( No assets or profits will be parties except as separate sheet if necessary.)"
+      }
+    ],
+    "company_differs": "",
+    "surplus_use": "it will be used for... Gf donating to a non-nominated  No assets or profits will be distributed to members, directors, or third parties except as permitted by CIC regulations."
+  },
+  "extraction_metadata": {
+    "source_file": "16727702.pdf",
+    "cic36_page": null,
+    "cic36_pages_found": [],
+    "location_confidence": "low",
+    "extraction_method": "ocr_pytesseract_layout",
+    "pages_searched": [
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39
+    ],
+    "extracted_at": "2026-01-14T18:18:26.482743Z",
+    "document_page_count": 39,
+    "avg_chars_per_page": 128.21,
+    "processing_time": 79.621
+  }
+}

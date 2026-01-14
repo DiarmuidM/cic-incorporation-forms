@@ -1,0 +1,57 @@
+{
+  "company_number": "15952096",
+  "incorporation_date": null,
+  "document_type": "hybrid",
+  "extraction_status": "success",
+  "section_a": {
+    "beneficiaries": "al PND Awareness will organise regular workshops both online and in-person to educate parents, families, and communities about Postnatal Depression. These workshops will cover topics including recognising the signs, understanding the causes, and knowing how to seek help for Postnatal Depression. By providing clear, accessible information, we aim to increase awareness and offer support. Community Events: PND Awareness will host community events, such as family fun days and wellbeing classes, where awareness about postnatal depression can be integrated into the activities. Through engaging activities and open discussions, we will create a comfortable environment for people to learn about and discuss their wellbeing. Support Groups: PND Awareness will establish support groups where new parents can come together to share their experiences and receive support. These groups will also serve as a platform for spreading awareness, as participants learn from each other and from the experts who facilitate the sessions. Advocacy and Public Speaking: PND Awareness representatives will engage in public speaking at schools, community centres, and healthcare facilities to raise awareness about Postnatal Depression. By speaking directly to different audiences, we can personalise the message and make a stronger impact. Incorporating Awareness into All Programs: Regardless of the specific topic of a workshop or event, PND Awareness will ensure that there is always a component dedicated to raising awareness about Postnatal Depression and other relevant mental health issues. This holistic approach helps keep the conversation going across all our activities. 2 The community interest test is referred to in section 35 of the Companies (Audit, Investigations and Community Enterprise) Act 2004 and is expanded upon in regulations 3, 4 & 5 of the Regulations. 3 E.g. “the residents of Oldtown” or “those suffering from XYZ disease”. Version 9 - Last Undated on 23/02/2024"
+  },
+  "section_b": {
+    "activities": [
+      {
+        "activity": "Doous gr cnc ID 2AGIDEB2 SOBA PND\nDoous gr cnc ID 2AGIDEB2 SOBA Signposting Signposting easily access mental health Timely access escalating, or family better outcomes families. Creating awareness Awareness as mental health, spreading more capable Awareness out for one strengthen bonds If the company makes any surplus, it will be wording ‘with the consent of the CIC Regulator’) If any surplus is generated we expect that this donated to CICs and charities with similar (Please continue",
+        "description": "AWARENESS CIC — provides a common for learning and strengthening the bonds within the community as people to address a shared concern,\nensures that individuals in need are aware of and can the services that are available to them, whether it’s support. financial aid. or community programs. to the right support can prevent problems trom whether related to mental health, financial issues, difficulties. This intuative-taking approach can lead to and reduce the long-term impact on individuals and campaigns educate people about important issues such health conditions, social justice. and more. By knowledge, the community becomes better informed and of addressing challenges. creates a more supporuve community where people look another. Knowing that others understand and care can within the community. used for . fundraising for charities. please include the or will be reinvested in the business and/or objectives, with the consent Regulator. separate sheet if necessary.)"
+      }
+    ],
+    "company_differs": "",
+    "surplus_use": "it will be used for... (f donating or fundraising for charities, please include the wording ‘with the consent of the CIC Regulater} If any surplus is generated we expect that this will be reinvested in the business and/or donated to CICs and charities with similar objectives, . a"
+  },
+  "extraction_metadata": {
+    "source_file": "15952096.pdf",
+    "cic36_page": null,
+    "cic36_pages_found": [],
+    "location_confidence": "low",
+    "extraction_method": "ocr_pytesseract_layout",
+    "pages_searched": [
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39
+    ],
+    "extracted_at": "2026-01-14T18:14:24.366463Z",
+    "document_page_count": 39,
+    "avg_chars_per_page": 124.03,
+    "processing_time": 87.075
+  }
+}

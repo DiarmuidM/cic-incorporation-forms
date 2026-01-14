@@ -1,0 +1,38 @@
+{
+  "company_number": "15685774",
+  "incorporation_date": null,
+  "document_type": "hybrid",
+  "extraction_status": "error",
+  "section_a": {
+    "beneficiaries": ""
+  },
+  "section_b": {
+    "activities": [],
+    "company_differs": "",
+    "surplus_use": ""
+  },
+  "extraction_metadata": {
+    "source_file": "15685774.pdf",
+    "cic36_page": null,
+    "cic36_pages_found": [],
+    "location_confidence": "low",
+    "extraction_method": "ocr_pytesseract",
+    "pages_searched": [
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24
+    ],
+    "extracted_at": "2026-01-14T18:18:36.711704Z",
+    "document_page_count": 39,
+    "avg_chars_per_page": 129.08,
+    "error": "No CIC 36 form found in document",
+    "processing_time": 35.825
+  }
+}

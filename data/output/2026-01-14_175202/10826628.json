@@ -1,0 +1,79 @@
+{
+  "company_number": "10826628",
+  "incorporation_date": null,
+  "document_type": "scanned",
+  "extraction_status": "success",
+  "section_a": {
+    "beneficiaries": "People who wish to participate in sport and associated activities but have a barrier to participation eg. Disability or Lack of financial provision. Defiant Sports will provide activities and events tailored to the specific needs of those who wish to overcome barriers to participation. Defiant Sports will also support and encourage volunteers to undertake coaching qualifications, particularly those keen to work in the disability sector or being disabled themselves (including those in other groups facing barriers to participation). ¢"
+  },
+  "section_b": {
+    "activities": [
+      {
+        "activity": "E.g. Tennis, barriers to ‘ archery, yoga, mental health i mindfulness will encourage | community who ! activities. i | i Supported volunteer | The community | progression including coaches available obtaining coaching community with qualifications the community | will benefit as the | to work with those | | who themselves | If the company makes any surplus it will be used _ ' Purchasing further for activities, equipment current otherwise supporting those facing a barrier to (Please continue on",
+        "description": "Sports C.I.C. — activities will benefit the community, or This better health and wellbeing of members of the : have difficulties accessing sport or wellbeing | | i} will benefit by increasing the amount of to provide for those members of the barriers to participation. Also the members of who will undertake learning and volunteering; scheme will be aimed at those with a desire who face barriers to participation or those face barriers to participation. | ‘ for... increasing provision of activities or sport participation (playing coaching). | or separate sheet if necessary.)"
+      }
+    ],
+    "company_differs": "",
+    "surplus_use": "Purchasing further equipment for current activities, increasing provision of activities or otherwise supporting those facing a barrier to sport participation (playing or coaching)."
+  },
+  "extraction_metadata": {
+    "source_file": "10826628.pdf",
+    "cic36_page": null,
+    "cic36_pages_found": [],
+    "location_confidence": "low",
+    "extraction_method": "ocr_pytesseract_layout",
+    "pages_searched": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49,
+      50,
+      51,
+      52,
+      53,
+      54,
+      55,
+      56,
+      57,
+      58,
+      59,
+      60,
+      61,
+      62,
+      63,
+      64,
+      65
+    ],
+    "extracted_at": "2026-01-14T18:05:34.797320Z",
+    "document_page_count": 65,
+    "avg_chars_per_page": 0.0,
+    "ocr_confidence": "very_low",
+    "processing_time": 153.672
+  }
+}

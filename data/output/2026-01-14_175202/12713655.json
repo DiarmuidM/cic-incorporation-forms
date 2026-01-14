@@ -1,0 +1,75 @@
+{
+  "company_number": "12713655",
+  "incorporation_date": null,
+  "document_type": "scanned",
+  "extraction_status": "success",
+  "section_a": {
+    "beneficiaries": ""
+  },
+  "section_b": {
+    "activities": [
+      {
+        "activity": "To be the professional = This will association anxieties representing all Filipino the UK are nurses in the UK CNO BAME NHS England To help and support all We have Filipino nurses working any nationality in the UK especially Covid-19. those affected by the amongst Covid-19 Pandemic harrowing association To help and support professional our Filipino nurse working in colleagues with their professional and We will personal development of England to give them an equal _from different opportunity to gain contributions promotion at work, to = skills and network with other nurses and leaders The company nationally and any work contribute to the signpost national and national international health them in and social care agenda To be an advocate for Our all Filipino nurses in bodies, England and Wales recruitment where ever they work — on boarding England To work with NHS and the England and retention Improvement to on the improve the recruitment and on boarding processes of Filipino nurses in the UK\nIf the company makes any surplus it The operational day to day expenses educational grants for deserving Filipino (Please continue",
+        "description": "Filipino Nurses Association UK Statement — the company’s activities will benefit the Please provide as much detail as make an It how you think\nensure that the voices, concerns, opinions, and any issues faced by us Filipino nurses in highlighted through national forums like the Strategic and Advisory Group, CNO Team, and Improvement,etc. the highest staff death rate (almost 20%) of in both the NHS and social care due to There are high anxieties and concerns the Filipino communities in the UK due to this statistics. It is intended that the company/ be the guiding light and the sole advocate for our Filipino nurse colleagues all sectors in the UK. represent Filipino nurses from different regions and Wales, from the different sectors and age groups. We believe in the from different Filipino nurses with varying experiences. will help and support Filipino nurses with related issues that they are facing. We will them to appropriate organisations including bodies and trade unions to help and support the workplace. association/company will collaborate with national local employers including NHS Trusts and companies to improve the recruitment and processes for new Filipino nurses in and Wales. This will both benefit the nurses employers in terms of lived experiences and of these nurses which will have implications safety, quality and cost of patient care.\nwill be used for... of the company and will be used for some nurses. on separate sheet if necessary.)"
+      }
+    ],
+    "company_differs": "",
+    "surplus_use": "The operational day to day expenses of the company and will be used for some educational grants for deserving Filipino nurses."
+  },
+  "extraction_metadata": {
+    "source_file": "12713655.pdf",
+    "cic36_page": null,
+    "cic36_pages_found": [],
+    "location_confidence": "low",
+    "extraction_method": "ocr_pytesseract_layout",
+    "pages_searched": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34
+    ],
+    "extracted_at": "2026-01-14T18:04:05.335070Z",
+    "document_page_count": 42,
+    "avg_chars_per_page": 0.0,
+    "ocr_confidence": "medium",
+    "processing_time": 120.142
+  }
+}

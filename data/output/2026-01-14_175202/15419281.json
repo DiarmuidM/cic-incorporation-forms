@@ -1,0 +1,57 @@
+{
+  "company_number": "15419281",
+  "incorporation_date": null,
+  "document_type": "hybrid",
+  "extraction_status": "success",
+  "section_a": {
+    "beneficiaries": "E | The company’s activities will provide benefit to... documents"
+  },
+  "section_b": {
+    "activities": [
+      {
+        "activity": ": Version 7- Last Updates? on 220023",
+        "description": ""
+      }
+    ],
+    "company_differs": "",
+    "surplus_use": "it will be used for... Any profit made by mcc legal will be used to pay bills and keep offering services to. the community. If money is availabie it could be used to subsidence legal cases.and legal fees. meaning."
+  },
+  "extraction_metadata": {
+    "source_file": "15419281.pdf",
+    "cic36_page": null,
+    "cic36_pages_found": [],
+    "location_confidence": "low",
+    "extraction_method": "ocr_pytesseract_layout",
+    "pages_searched": [
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41
+    ],
+    "extracted_at": "2026-01-14T18:15:18.698329Z",
+    "document_page_count": 41,
+    "avg_chars_per_page": 87.27,
+    "processing_time": 98.154
+  }
+}

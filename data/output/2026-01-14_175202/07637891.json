@@ -1,0 +1,75 @@
+{
+  "company_number": "07637891",
+  "incorporation_date": null,
+  "document_type": "scanned",
+  "extraction_status": "success",
+  "section_a": {
+    "beneficiaries": "Supporting the elderly, those suffering with dementia, other disabilities that live alone and on low income Living in areas of social exclusion, high level of socio-economic deprivation and hardship within the city of Birmingham, West Midlands To address inequality in service provision for those who cannot afford to pay for extra care required in order to prevent hospitalisation or residential care To assist the elderly, or disabled persons in providing a home care free sitting service so that carers can be relieved from the stress of caring Provide individuatise, holistic, culturally sensitive and appropriate care that promotes physical, emotional, cultural, spiritual, and social well being to individuals Supporting individual with their independence and promoting choice of services to enable and empower them to live within their home and the Community Employment of staff to support the demand, will also help the economy MONDAY *AGUY6TZG* Al4 72 09/05/2011"
+  },
+  "section_b": {
+    "activities": [
+      {
+        "activity": "A Helping . [t would think being set up to do) To provide all aspects of personal A Helping Hand care within peoples home. loved one to stay To collect and assist with Supported by fully prescription/medication as per per designed : chart. To prepare meals/light gned care pian, ! | Care service ideal. snacks at meal times To monitor and record diet/fluid intake. Liatse with other agencies Carry out A Helping Hand general shopping and household homes and duties. To carry out mental holistic, culturally stimulation activities by engaging — | physical, emotional service users in hobbies or Interests of their choice. nn A Helping Hand sitting service to Assist in the meals at a reduced training up to NVQ development. The company will users and on local If the company makes any surplus it will be used Free Sitting service, Setting up a carers group,Days user or just for carers while their love ones are (Please continue",
+        "description": "Hand Home — company’s activites will benefit the community, or 1s committed to help maintain people in their own community. Our organisation provides individualise, sensitive and appropriate care that promotes and sucial well being. | community. Care Agency will use any financial gain to provide a free carers to give them a break from caring. transportation for elderly, installing smoke alarms, providing rate and days out. Volunteers will be given free level 3, which will enhance their professional be led by the identified needs of the community/service research. for. out/Holidays for carers and the service in respite. on separate continuation sheet if necessary.)"
+      }
+    ],
+    "company_differs": "",
+    "surplus_use": "Free Sitting service, Setting up a carers group,Days out/Holidays for carers and the service user or just for carers while their love ones are in respite."
+  },
+  "extraction_metadata": {
+    "source_file": "07637891.pdf",
+    "cic36_page": null,
+    "cic36_pages_found": [],
+    "location_confidence": "low",
+    "extraction_method": "ocr_pytesseract_layout",
+    "pages_searched": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34
+    ],
+    "extracted_at": "2026-01-14T18:10:15.049967Z",
+    "document_page_count": 42,
+    "avg_chars_per_page": 0.0,
+    "ocr_confidence": "medium",
+    "processing_time": 135.628
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "company_number": "08007897",
+  "incorporation_date": null,
+  "document_type": "scanned",
+  "extraction_status": "success",
+  "section_a": {
+    "beneficiaries": "a range of communities within west Cornwall, West Cornwall is a rural area which has been recognised as having particularly high deprivation. Currently there is no dedicated gymnastic faciiity within the area able to provide the purpose built equipment required. The company will provide a gymnastics club for the local community. It wilf be available primarily for the children of west Cornwell, of all ages, providing a high quality sports coaching/training facility for gymnastics and a range of associated disciplines. It will also offer sessions for adults and subsidised sessions for disabled and disadvantaged children and young people"
+  },
+  "section_b": {
+    "activities": [
+      {
+        "activity": "Penzance The facilities in sports (primarily promote gymnastics). communities This includes children and The space will be available for community. This a community sports. The services on as competitive wide competitions. If the company makes any surplus it will be Increasing participation in sport within the subsidising fees, replacing worn equipment, sporting activities/disciplines. (Please continue",
+        "description": "| Gymnastics C.I.C. — primarily be used for gymnastics but will also hire to other clubs and activities within the will increase participation in sport greatly to which has no other affordable space for such offer will be for recreational purposes, as well training. It will also provide a venue for county used for.. harder to reach areas of the community by refurbishment of building, introducing new on separate sheet if necessary.)"
+      }
+    ],
+    "company_differs": "",
+    "surplus_use": "Increasing participation in sport within the harder to reach areas of the community by subsidising fees, replacing worn equipment, refurbishment of building, introducing new sporting activities/disciplines."
+  },
+  "extraction_metadata": {
+    "source_file": "08007897.pdf",
+    "cic36_page": null,
+    "cic36_pages_found": [],
+    "location_confidence": "low",
+    "extraction_method": "ocr_pytesseract_layout",
+    "pages_searched": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49,
+      50,
+      51,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34
+    ],
+    "extracted_at": "2026-01-14T18:10:40.645321Z",
+    "document_page_count": 51,
+    "avg_chars_per_page": 0.0,
+    "ocr_confidence": "medium",
+    "processing_time": 162.692
+  }
+}

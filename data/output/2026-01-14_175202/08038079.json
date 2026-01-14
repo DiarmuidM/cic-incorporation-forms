@@ -1,0 +1,73 @@
+{
+  "company_number": "08038079",
+  "incorporation_date": null,
+  "document_type": "scanned",
+  "extraction_status": "success",
+  "section_a": {
+    "beneficiaries": "as defined in section 35 of the Companies (Audit, Investigations and Community Enterprise) Act 2004 (“the Act”) and the Regulations. Please insert a short description of the community, or section of the community, which it Is intended that the company will benefit, in the space provided below (See note 2): The company’s activites will provide benefit to... ¥eumn People in Handsworth who wish to pursue a career in the creative industries. ‘Local businesses, traders and manufacturers who will be utilised where possible. Older people, by giving them the opportunity to pass on their stones and experiences to future generations"
+  },
+  "section_b": {
+    "activities": [
+      {
+        "activity": "We would find it useful if you brought out how you think your company will be Activities To develop intergenerational projects that foster connections between the older and younger involving both tn innovative projects te, 1 creating an oral record of the area and its social history, or 2 developing a comic book in a ‘graphic novel format Both projects would require input from each end of the generation spectrum Other projects are planned We wish also to pay sessional workers who will help us collect, collate and produce the finished outputs te DVD's etc We also intend to employ on a sessional basis Comic industry professionals, artist and wniters, (locally based where possible) moang older and younger people in order to create the project fostering longer term connections that may well last beyond the life-tme of the project itself, There will also be copies of books, DVD's videos etc evidencing the information, stones, history collected, which will be for sale at the businesses being paid as researchers, artists and writers as well as the wider with both their frends and other members of their focal communities being able to attend creative workshops where we will work with those who express an interest in the comics industry and will develop a connection between the industry professionals and those who may wish to pursue this as a career",
+        "description": "residents in our community, by outcomes means we will be encouraging community cohesion and project end, this will benefit both the local community as well as local community attending our drop-in sessions where they can interact"
+      }
+    ],
+    "company_differs": "",
+    "surplus_use": "Reinvestng in future projects or equipment"
+  },
+  "extraction_metadata": {
+    "source_file": "08038079.pdf",
+    "cic36_page": null,
+    "cic36_pages_found": [],
+    "location_confidence": "low",
+    "extraction_method": "ocr_pytesseract_layout",
+    "pages_searched": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34
+    ],
+    "extracted_at": "2026-01-14T18:02:51.221176Z",
+    "document_page_count": 40,
+    "avg_chars_per_page": 0.0,
+    "ocr_confidence": "medium",
+    "processing_time": 135.879
+  }
+}

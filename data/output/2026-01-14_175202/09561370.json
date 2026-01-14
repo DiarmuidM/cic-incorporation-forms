@@ -1,0 +1,79 @@
+{
+  "company_number": "09561370",
+  "incorporation_date": null,
+  "document_type": "scanned",
+  "extraction_status": "success",
+  "section_a": {
+    "beneficiaries": "Insert a short description of the community, or section of he community, which it is inten e company will benefit in th s rovid Jow }= The company’s activities will provide benefit to ... Communities of learners wishing to talk and think together about philosophical issues. These learners are groups of children and adults in formal and informal learning environments including schools, universities, workplaces, residential homes, clubs, community groups, museums, galleries, hospitals, prisons, outdoor or public spaces and events such as conferences and festivals We also work with recent philosophy graduates, philosophy postgraduates and early career researchers offering them alternative, constructive ways to make use of their philosophical training The benefits to individuals are three fold: firstly the skills associated with philosophising help people think and communicate their thinking more clearly Clear thought, clearly communicated benefits individuals in their learning and their life, it also benefits the communites within which they live and learn it 1s not just the skills of philosophy that are beneficial, our work also presents learners with the problems of philosophy, helping them connect with the history of ideas and identify and explore the phitosophical problems that interest them and connect meaningfully with their lives Finally people participating in communal philosophical enquiry report a great deal of enjoyment and satisfaction We make space by facilitating group dialogue, training, mentoring and supporting new facilitators of philosophical enquiry, Initiating, managing and evaluating"
+  },
+  "section_b": {
+    "activities": [
+      {
+        "activity": "Facilitating Groups of Deliver philosophy traning, resources and research philosophical We offer our philosophical beneficial to training on behaif of the supporting some commercial avoid one-off without on-going association going support If the company makes any surplus it will be development of the work of the organisation, (Please continue",
+        "description": "— Not all commercial competitors will over time in the way we do group enquines learners benefit from the support of an experienced and naw Oo} enquiry own bespoke training to facilitators of enquiry believing that targeted training Is more our We also offer generic accredited behalf of SAPERE and aspire to offer training on Philosophy Foundation — the two major charities philosophy in schools and communities Unlike competitors, and where practicable, we try to training contexts where delivered support in place. Group leaders — and by the groups they work with — benefit from our on- to help successtully embed philosophical enquiry used for... on separate continuation sheet if necessary.)"
+      }
+    ],
+    "company_differs": "",
+    "surplus_use": "it will be for... development of the work of the organisation,"
+  },
+  "extraction_metadata": {
+    "source_file": "09561370.pdf",
+    "cic36_page": null,
+    "cic36_pages_found": [],
+    "location_confidence": "low",
+    "extraction_method": "ocr_pytesseract_layout",
+    "pages_searched": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34
+    ],
+    "extracted_at": "2026-01-14T17:59:23.327379Z",
+    "document_page_count": 49,
+    "avg_chars_per_page": 0.0,
+    "ocr_confidence": "medium",
+    "processing_time": 162.831
+  }
+}

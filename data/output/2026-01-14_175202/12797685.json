@@ -1,0 +1,71 @@
+{
+  "company_number": "12797685",
+  "incorporation_date": null,
+  "document_type": "scanned",
+  "extraction_status": "success",
+  "section_a": {
+    "beneficiaries": "al The company’® activities will provide benefit to ... This is a training company. The company has been set-up to support: e Parents of children in the early years age range to access training to enhance their skills for employment or to further develop their knowledge and skills to parent. Training will be subsidised or free. e Support staff in employment within early years to enhance their professional development through accessing affordable or free training opportunities. e To allow members of the community to enrol on early years based courses to enhance current skills further or provide them with new skillsAraining/knowledge to enhance their skill set. The company initially looks to support the local community (East Sussex) which will include current early years practitioners, people wishing to enter the early years sector and parents of children in the sector who want to improve their parenting skills. The company seeks in time to extend the geographical range in which it works, rolling out the model to other counties"
+  },
+  "section_b": {
+    "activities": [
+      {
+        "activity": "This will not looking to other nurseries and skills. This and support To enable government experience or of working in To provide unemployed them with a people aged 16-19 work enhance their experience through will encompass traineeships as part of these experience sector by offers\nDevelop and enhance To enhance training opportunities source training development. To seek to enriching the develop new early years become Offer parents To provide parents of opportunity children attending early around early years settings training training up allow them sector. If the company makes any surplus it will be New training opportunities., enhancing the to currently employed early years practitioners Used to support and enhance the skills and to increase the geographical range in which provided. This will thus, in time, support the company reinvests money to expand. (Please continue",
+        "description": "— This attracting high quality provisions and training traineeships, ensuring they not only have the and skills, but wider knowledge of the early years ‘training packages’.\nopportunities for staff in the early years sector to to upskill them and build on their professional enhance apprenticeship opportunities through support provided to young adults looking to skills and professional knowledge within the section. Which in turn looks to support them to employed within the early years sector. of children who attend early years settings the to access affordable training. Training will feature years and provide those parents who take this with new skills and knowledge, which in turn may access to become employed within the early years used for... systems in place to allow more affordable training or new people wishing to enter the sector. time of the management company to allow them these subsidised training opportunities can be early years sector nationally and beyond as the CS | on separate sheet if necessary.)"
+      }
+    ],
+    "company_differs": "",
+    "surplus_use": "New training opportunities., enhancing the systems in place to allow more affordable training to currently employed early years practitioners or new people wishing to enter the sector."
+  },
+  "extraction_metadata": {
+    "source_file": "12797685.pdf",
+    "cic36_page": null,
+    "cic36_pages_found": [],
+    "location_confidence": "low",
+    "extraction_method": "ocr_pytesseract_layout",
+    "pages_searched": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      35,
+      36,
+      37,
+      38,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34
+    ],
+    "extracted_at": "2026-01-14T18:18:35.114452Z",
+    "document_page_count": 38,
+    "avg_chars_per_page": 0.0,
+    "ocr_confidence": "medium",
+    "processing_time": 100.021
+  }
+}

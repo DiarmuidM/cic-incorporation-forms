@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+ENV/
+
+# Data files - exclude most input data but keep sample100
+data/input/*
+!data/input/sample100/
+data/sample_*/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary files
+tmpclaude-*
+*.tmp
+*.bak
+*~
+
+# Logs
+*.log
+
+# Manual evaluations (contains review data)
+manual-evaluations/
+
+# Claude project files
+CLAUDE.md

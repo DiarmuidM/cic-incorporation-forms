@@ -1,0 +1,79 @@
+{
+  "company_number": "11577554",
+  "incorporation_date": null,
+  "document_type": "scanned",
+  "extraction_status": "success",
+  "section_a": {
+    "beneficiaries": "the community, predominantly in the North West of England, as national statistics for 2015/16 show 12 million days were lost to stress, anxiety and depression. The support will range from 1 to 1 tuition and workshops and be split into four sections: Relax kids and family classes Corporate events Funded classes Specific groups of vulnerable people 12millionminds"
+  },
+  "section_b": {
+    "activities": [
+      {
+        "activity": "12millionminds Direct intervention for 1 to 1 bespoke tuition with children and families giving them children and families tools and techniques to help them cope. Systems will be in place to help people requiring an intervention who cannot afford key services; anxiety in the workplace and providing coping strategies to help them to be calm and creative and/or productive. Group workshops Through securing funding from contracts and grants, this element will support children and their families to cope with situations and provide tools and techniques. Supporting specific vulnerable groups support services to identified groups, such as vulnerable children and adults, ex-offenders and their families.",
+        "description": "Corporate events This will benefit people who are employed to help deal with This element of the social enterprise will provide bespoke"
+      }
+    ],
+    "company_differs": "",
+    "surplus_use": "reinvest back into the business eee enacts peer"
+  },
+  "extraction_metadata": {
+    "source_file": "11577554.pdf",
+    "cic36_page": null,
+    "cic36_pages_found": [],
+    "location_confidence": "low",
+    "extraction_method": "ocr_pytesseract_layout",
+    "pages_searched": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49,
+      50,
+      51,
+      52,
+      53,
+      54,
+      55,
+      56,
+      57,
+      58,
+      59,
+      60,
+      61,
+      31,
+      32,
+      33,
+      34
+    ],
+    "extracted_at": "2026-01-14T17:58:32.432822Z",
+    "document_page_count": 61,
+    "avg_chars_per_page": 0.0,
+    "ocr_confidence": "medium",
+    "processing_time": 159.701
+  }
+}

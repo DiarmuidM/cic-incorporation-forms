@@ -1,0 +1,57 @@
+{
+  "company_number": "16339334",
+  "incorporation_date": null,
+  "document_type": "hybrid",
+  "extraction_status": "success",
+  "section_a": {
+    "beneficiaries": "J2"
+  },
+  "section_b": {
+    "activities": [
+      {
+        "activity": "Community Interest Benefit emerging and underrepresented artists. - Families will creative acuvities. - Offering community workshops in music, arts, - The event and circus skills for shared celebration families and young people - Running affordable. accessible, and inclusive cultural programming ina rural setting.\nIf the company makes any surplus, it will charities, please joclude the wording ‘with the consent of the Reinvesting in future editions of the festival, tickets or transport for low-income attendees, initiatives (with the consent of the CIC (Please continue : INGLEFEST CIC SECTION C: 1. We/I, the undersigned, declare this application is made will not (a) a political party; (b) a political campaigning (c) a subsidiary of a political organisation.4 SECTION D: TYPED NAMES ARE NOT ACCEPTABLE",
+        "description": "Statement — Activities & Related the company’s activities will benefit the Please provide as much detail as set up to dowill gain performance opportunities and accompanied by high-quality audio- benetit from accessible entertainment and builds local pride and cohesion through and volunteering.\nDe used for trdonating or ’ Regulator’) improving infrastructure, subsidising and supporting local artists or cultural Regulator) separate sheet if necessary.) that the company in respect of which be: organisation; or party or of a political campaigning AND WILL BE REJECTED"
+      }
+    ],
+    "company_differs": "",
+    "surplus_use": "it will be Used for... ar donating or fundraising for | charities, please include the wording ‘with the consent ef the CIC Regulator’) Reinvesting in future editions of the festival, improving infrastructure, subsidising ickets or transport for low-income attendees, and supporting local artists or cultural nitiatives (. (Please continue Separate : sheet if necessary.) COMPANY NAME:"
+  },
+  "extraction_metadata": {
+    "source_file": "16339334.pdf",
+    "cic36_page": null,
+    "cic36_pages_found": [],
+    "location_confidence": "low",
+    "extraction_method": "ocr_pytesseract_layout",
+    "pages_searched": [
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41
+    ],
+    "extracted_at": "2026-01-14T17:55:52.116031Z",
+    "document_page_count": 41,
+    "avg_chars_per_page": 115.59,
+    "processing_time": 82.775
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "company_number": "12014883",
+  "incorporation_date": null,
+  "document_type": "scanned",
+  "extraction_status": "success",
+  "section_a": {
+    "beneficiaries": "..the people of Cuckfield and the surrounding area by hosting events with acclaimed authors and poets who discuss their work and the process of writing. The Cuckfield Bookfest aims to enrich the cultural life of the area by providing locals of all ages with the opportunity to engage with and be inspired by these authors and poets and through them, the process of writing and creativity. Where possible, opportunities will also be given to local authors to showcase their work. By including local people as volunteers, (catering, stewarding, hosting, etc), residents are involved in ensuring that the book festival remains a community event which people feel adds vigour to the life of the village"
+  },
+  "section_b": {
+    "activities": [
+      {
+        "activity": "for involvement commercial area at the point up. Children: Cuckfield Bookfest | The community hosts a range of events for | that will tap local young people. writing and books. | If the company makes any surplus it will be used The Cuckfield Bookfest (Please continue on TT",
+        "description": "Bookfest — .) will benefit by having the opportunity to and be inspired by acclaimed and diverse | poets and through them, the process of creativity. Most events are followed by a giving the audience a further chance i with the speaker. There is no .. separate sheet if necessary.)"
+      }
+    ],
+    "company_differs": "",
+    "surplus_use": "The Cuckfield Bookfest"
+  },
+  "extraction_metadata": {
+    "source_file": "12014883.pdf",
+    "cic36_page": null,
+    "cic36_pages_found": [],
+    "location_confidence": "low",
+    "extraction_method": "ocr_pytesseract_layout",
+    "pages_searched": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34
+    ],
+    "extracted_at": "2026-01-14T18:16:45.775891Z",
+    "document_page_count": 34,
+    "avg_chars_per_page": 0.0,
+    "ocr_confidence": "medium",
+    "processing_time": 109.682
+  }
+}

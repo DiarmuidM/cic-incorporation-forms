@@ -1,0 +1,79 @@
+{
+  "company_number": "11681631",
+  "incorporation_date": null,
+  "document_type": "scanned",
+  "extraction_status": "success",
+  "section_a": {
+    "beneficiaries": "PE The company’s activities will provide benefit to ... The Aspiring Medic’s Support is an independent widening access project based in London that will support medical school applicants from socially disadvantaged backgrounds. Through various schemes, the project has served and will continue to benefit various members of the community including: - Young people aged 18-21 applying to medical school who have come from socially disadvantaged backgrounds (e.g. low income household or benefit payment dependent). Such members of the community will benefit from the extensive mentoring scheme of the project. - Parents of medical school applicants will also benefit from the project. This is because parents from lower socioeconomic classes are less likely to be well connected to the clinicians and health professionals that support their child’s application. The Aspiring Medic’s Support addresses this asymmetric information and closes the gap through closely working with the families of applicants. - School staff and younger students (11-16) will also benefit. The Aspiring Medic’s Support works closely to educate school staff on how to better support students. Widening access days will also educate and benefit younger students within the local community"
+  },
+  "section_b": {
+    "activities": [
+      {
+        "activity": "It think Activities | will How : The Aspiring Widening Access Days | ‘Widening work with students on with three The day typically medical students, within the worked with community as backgrounds receive information become doctors. ' youths are be successful. After each Mentoring Scheme recruited for through a household | scheme is an to support stages of the programme ‘ as due to the substantially If the company makes any surplus it will be The revenue of the company is solely through Costing is mainly attributed to the Widening |",
+        "description": "| Aspiring Medic’s Support — ) Medic’s Support has hosted a number of Access Days’ around the capital. The event aims to schools who have a relatively high number of free school meals. So far we have worked closely different schools, two local councils and two MPs. consists of an afternoon of talks from . doctors and other professionals. Students borough are invited to attend and thus far we have nearly 100 students. The day benefits the students from socially disadvantaged are presented with the unique opportunity to | and support, igniting their passions to Through the programme, once discouraged encouraged to apply and some have gone on to ‘Widening Access Day’ a number of students are the mentoring scheme. Students are selected combination of predetermined criteria such as: income and academic background. The mentoring intense six month programme that endeavours school applicants through the | medical various process. The mentoring scheme of the j will therefore benefit applicants to medical school intensity of the programme they are more likely to be successful. used for... generous donations members of the public. Access Days (e.g. travel cost of speakers). Any"
+      }
+    ],
+    "company_differs": "",
+    "surplus_use": "The revenue of the company is solely through generous donations members of the public. Costing is mainly attributed to the wicering Access Days cs g. travel Cost of speaters) Any"
+  },
+  "extraction_metadata": {
+    "source_file": "11681631.pdf",
+    "cic36_page": null,
+    "cic36_pages_found": [],
+    "location_confidence": "low",
+    "extraction_method": "ocr_pytesseract_layout",
+    "pages_searched": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49,
+      50,
+      51,
+      52,
+      53,
+      54,
+      55,
+      56,
+      57,
+      58,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34
+    ],
+    "extracted_at": "2026-01-14T17:54:30.044686Z",
+    "document_page_count": 58,
+    "avg_chars_per_page": 0.0,
+    "ocr_confidence": "medium",
+    "processing_time": 146.721
+  }
+}

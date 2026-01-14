@@ -1,0 +1,65 @@
+{
+  "company_number": null,
+  "incorporation_date": null,
+  "document_type": "scanned",
+  "extraction_status": "success",
+  "section_a": {
+    "beneficiaries": "al The company’® activities will provide benefit to ... In particular, the company's activites will be carried on for the benefits of children, especially those from disadvantaged backgrounds in Scotland and beyond"
+  },
+  "section_b": {
+    "activities": [
+      {
+        "activity": "background. Reading - App: the app will The app will provide a platform for development children to connect with their | that the availability history, it will be an children from information hub with quizzes, | increase their games, reading levels, We would also competition and friendship BME authors, connection. improving the next literary lovers generation. If the company makes any surplus it will be We hope to generate a surplus from trading. business. (Please continue",
+        "description": "— The Infohubme will also help to ability to challenge them “reading level miles”. like to establish links with other networks of publishers and readers to develop ways of creative writing development and initiative among generation. The Infohubme will be a network of willing to pass their knowledge to the next used for... We expect that this will all be reinvested in the on a separate sheet if necessary.)"
+      }
+    ],
+    "company_differs": "",
+    "surplus_use": "We hope to generate a surplus from trading. We expect that this will all be reinvested in the business."
+  },
+  "extraction_metadata": {
+    "source_file": "SC653536.pdf",
+    "cic36_page": null,
+    "cic36_pages_found": [],
+    "location_confidence": "low",
+    "extraction_method": "ocr_pytesseract_layout",
+    "pages_searched": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32
+    ],
+    "extracted_at": "2026-01-14T17:53:46.902758Z",
+    "document_page_count": 32,
+    "avg_chars_per_page": 0.0,
+    "ocr_confidence": "medium",
+    "processing_time": 103.542
+  }
+}

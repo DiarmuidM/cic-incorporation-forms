@@ -1,0 +1,79 @@
+{
+  "company_number": "10828798",
+  "incorporation_date": null,
+  "document_type": "scanned",
+  "extraction_status": "success",
+  "section_a": {
+    "beneficiaries": "J? The company’s activities will provide benefit to children, women and men across the UK and Ireland that have sadly lost their own hair due to alopecia, cancer treatment, accidents and other illnesses, ? The community interest test is referred to in section 35 of the Companies (Audit, Investigations and Community Enterprise) Act 2004 and is expanded upon in regulations 3, 4 & 5 of the Regulations. 3 E.g. “the residents of Old Town” or “those suffering from XYZ disease”"
+  },
+  "section_b": {
+    "activities": [
+      {
+        "activity": "or surgery. are setup to provide information, creative support in wig making skills and emotional support for victims and their families. Support groups: Our wig making We believe . shared other any experiences create better loss, the workshop communities, our activities and victims that will include but not limited to make their to offering financial support advice buying treatment, offer on acquiring the scientific advice on buying hair wigs different and caps, practical support and free hair wigs.\nHealth & Activities Through our The community will benefit community from health & weliness and female, activities and events which affected by will assist in raising money for organisations, financially disadvantaged stronger children, young people and adults affected by hair toss with financial support in acquiring treatment for hair loss, buying hair wigs and caps, If the company makes any surplus it will be We haope to generate a surplus from trading expect that this will all be reinvested in the (Please cantinue",
+        "description": "OTA — .) a crippling effect on victims mental health, self and the self image. UK residents who are loss are currently suffering in silence due to practical support and aftercare following Victims of hair loss, their families as well as the will benefit from having access to our where we aim to connect victims with the eliminate stigma and isolation. A hub where professionals meet victims, inform victims on practical support on hair wearing, wigs and a creative, feel supported and comfortable difficulties and coping mechanisms in dealing workshops is a unique concept not offered by community organisations supporting victims of hair initiative will benefit both the community would benefit from; Learning the skill of how own wigs,therefore reduce costs and offer hair wigs and caps, workshops that add to knowledge about hair loss, its causes, and treatments.\nevents, we will benefit a section of the being that of victims of hair loss of all ages, male through advacating the cancems of people hair loss, to government bodies, commercial and the general public to develop happier and relationships in the community. used for... through our activities, workshops and events. We business. on separate sheet if necessary.)"
+      }
+    ],
+    "company_differs": "",
+    "surplus_use": "We hope to generate a surplus from trading through our activities, workshops and events. We expect that this will all be reinvested in the business."
+  },
+  "extraction_metadata": {
+    "source_file": "10828798.pdf",
+    "cic36_page": null,
+    "cic36_pages_found": [],
+    "location_confidence": "low",
+    "extraction_method": "ocr_pytesseract_layout",
+    "pages_searched": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49,
+      50,
+      51,
+      52,
+      53,
+      54,
+      55,
+      56,
+      57,
+      58,
+      59,
+      60,
+      30,
+      31,
+      32,
+      33,
+      34
+    ],
+    "extracted_at": "2026-01-14T18:12:42.643357Z",
+    "document_page_count": 60,
+    "avg_chars_per_page": 0.0,
+    "ocr_confidence": "medium",
+    "processing_time": 147.592
+  }
+}

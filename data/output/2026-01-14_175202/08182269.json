@@ -1,0 +1,16 @@
+{
+  "company_number": null,
+  "incorporation_date": null,
+  "document_type": "unknown",
+  "extraction_status": "error",
+  "section_b": {
+    "activities": []
+  },
+  "extraction_metadata": {
+    "source_file": "08182269.pdf",
+    "error": "PDF not found: C:\\Users\\diarm\\Dropbox\\cic-incorporation-project\\data\\input\\08182269.pdf",
+    "traceback": "Traceback (most recent call last):\n  File \"C:\\Users\\diarm\\Dropbox\\cic-incorporation-project\\src\\pipeline.py\", line 66, in process_single_document\n    doc_type, classification_meta = classify_document(pdf_path)\n                                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\diarm\\Dropbox\\cic-incorporation-project\\src\\classify_document.py\", line 38, in classify_document\n    raise FileNotFoundError(f\"PDF not found: {pdf_path}\")\nFileNotFoundError: PDF not found: C:\\Users\\diarm\\Dropbox\\cic-incorporation-project\\data\\input\\08182269.pdf\n",
+    "extracted_at": "2026-01-14T18:18:35.008940Z",
+    "processing_time": 0.002
+  }
+}

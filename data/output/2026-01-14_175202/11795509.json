@@ -1,0 +1,79 @@
+{
+  "company_number": "11795509",
+  "incorporation_date": null,
+  "document_type": "scanned",
+  "extraction_status": "success",
+  "section_a": {
+    "beneficiaries": "Individuals and families in the UK who have health and wellbeing challenges and/or lack of access to outdoor adventure facilities"
+  },
+  "section_b": {
+    "activities": [
+      {
+        "activity": "It think Provide outdoor education The community and adventure (water and outdoor education land) wilderness and life skills. Running community projects | The community (water, field and forest) outdoor engage and active participation. The community councils and green space Develop and provide The community wilderness development therapeutic programmes change to personal groups experiences prescription providers (Long absence) If the company makes any surplus it will be in the social mission of the business to serve (Please continue",
+        "description": "ed Adventures UK C.1.C. | eee — ) | will benefit by increased access to quality | and adventure that champions wellbeing, connectivity, personal development, social, team will benefit by access to social and group | programmes, events and opportunities to connect, improve self and local surroundings through | will benefit from collaboration with local authorities to improve wellbeing and access to leisure will benefit from specific personal and group programmes that support and champion personal life’s obstacles to balanced mental and | | overcome wellbeing; the provision of community and therapy opportunities to engage with meaningful outdoor | and access to structured outdoor social programmes that reduce need on service | term sickness, unemployment and school used for surpluses will be primarily reinvested ... the community. | on separate sheet if necessary.)"
+      }
+    ],
+    "company_differs": "",
+    "surplus_use": "surpluses will be primarily reinvested in the social mission of the business to serve the community."
+  },
+  "extraction_metadata": {
+    "source_file": "11795509.pdf",
+    "cic36_page": null,
+    "cic36_pages_found": [],
+    "location_confidence": "low",
+    "extraction_method": "ocr_pytesseract_layout",
+    "pages_searched": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49,
+      50,
+      51,
+      52,
+      53,
+      54,
+      55,
+      56,
+      57,
+      58,
+      59,
+      60,
+      61,
+      62,
+      63,
+      64,
+      34
+    ],
+    "extracted_at": "2026-01-14T18:13:04.572598Z",
+    "document_page_count": 64,
+    "avg_chars_per_page": 0.0,
+    "ocr_confidence": "medium",
+    "processing_time": 162.089
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "company_number": "10993966",
+  "incorporation_date": null,
+  "document_type": "scanned",
+  "extraction_status": "success",
+  "section_a": {
+    "beneficiaries": "rE The company's activities will provide benefit to improve the lives of individuals it serves, including but not restricting itself to, the economic, social, personal, academic, health and wellbeing. CLDI works in partnership with local, national and even international organisations to achieve its aim. CLDI is community led meaning it is driven by its internal steering boards that are made up of the local community"
+  },
+  "section_b": {
+    "activities": [
+      {
+        "activity": "It think Activities How what | (Tell us here the company Gauge the needs of the local | Benefit from population by regular concerns and consultation in order to drive | change, feel the activities of the CIC. initiative. The CIC will needs of the j | outcomes and | profit. The CIC | possible. The requesting a do this will not money by Improve the lives of its Seeking public, service users in all aspects services to | j including health, wellbeing, example, social, economic, and as a second educational. | ' local MP‘s to | The CIC will ! the CIC will ensure that | local economy, If the company makes any surplus it will be Other work and activities within the remit of (Please continue",
+        "description": "os Led Development Initiative C.1.C | — ) i a grass-root organisation listening to their needs, be part of a grass-root organisation for empowered by being engaged with a local-led | differ from a profit making organisation in that local community will drive the actions, projects, ; activities of CLDI, not the aim to generate will offer subsidised, if not free will aim to generate a fee-paying culture by , | nominal fee; however, service users unable to be turned away. The CIC will ensure value for souring local services. private and other funds to offer bespoke meet the needs of service users, this could be for providing educational classes for those with English language, arranging street clean-ups, lobbying repair roads or make use of derelict buildings. differ from a profit making organisation in that provide a subsidised service where free, but services are value for money, and to support the buy in local services. _ used for... CLDI that benefits its service users. on separate sheet if necessary.)"
+      }
+    ],
+    "company_differs": "",
+    "surplus_use": "Other work and activities within the remit of CLDI that benefits its service users. = a ae (Piease continue on separate sheet if necessary."
+  },
+  "extraction_metadata": {
+    "source_file": "10993966.pdf",
+    "cic36_page": null,
+    "cic36_pages_found": [],
+    "location_confidence": "low",
+    "extraction_method": "ocr_pytesseract_layout",
+    "pages_searched": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49,
+      50,
+      51,
+      52,
+      53,
+      54,
+      55,
+      56,
+      57,
+      58,
+      59,
+      60,
+      61,
+      62,
+      32,
+      33,
+      34
+    ],
+    "extracted_at": "2026-01-14T17:54:47.761364Z",
+    "document_page_count": 62,
+    "avg_chars_per_page": 0.0,
+    "ocr_confidence": "medium",
+    "processing_time": 164.439
+  }
+}

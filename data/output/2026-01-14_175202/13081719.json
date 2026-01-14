@@ -1,0 +1,67 @@
+{
+  "company_number": "13081719",
+  "incorporation_date": null,
+  "document_type": "scanned",
+  "extraction_status": "success",
+  "section_a": {
+    "beneficiaries": "Prenatal and postnatal women in the local community Empower Core Programs"
+  },
+  "section_b": {
+    "activities": [
+      {
+        "activity": "Empower Core Programs for prenatal women that can reduce problems and prepare them for birth both mentally and physically Postnatal classes We will provide physical activity that is specifically structured both mentally and physically. This program creates functional stability and strength therefore contributing to the trunk, shoulder and pelvis stability. It also gives a sense of well being, promoting self confidence.",
+        "description": "for a postnatal woman which has a huge amount of benefits"
+      }
+    ],
+    "company_differs": "",
+    "surplus_use": "new equipment and classes in the community for women who cannot afford our sessions."
+  },
+  "extraction_metadata": {
+    "source_file": "13081719.pdf",
+    "cic36_page": null,
+    "cic36_pages_found": [],
+    "location_confidence": "low",
+    "extraction_method": "ocr_pytesseract_layout",
+    "pages_searched": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34
+    ],
+    "extracted_at": "2026-01-14T18:03:01.124648Z",
+    "document_page_count": 34,
+    "avg_chars_per_page": 0.0,
+    "ocr_confidence": "medium",
+    "processing_time": 103.449
+  }
+}

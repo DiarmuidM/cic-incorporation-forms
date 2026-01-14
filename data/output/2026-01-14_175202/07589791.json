@@ -1,0 +1,54 @@
+{
+  "company_number": "07589791",
+  "incorporation_date": null,
+  "document_type": "scanned",
+  "extraction_status": "error",
+  "section_a": {
+    "beneficiaries": ""
+  },
+  "section_b": {
+    "activities": [],
+    "company_differs": "",
+    "surplus_use": ""
+  },
+  "extraction_metadata": {
+    "source_file": "07589791.pdf",
+    "cic36_page": null,
+    "cic36_pages_found": [],
+    "location_confidence": "low",
+    "extraction_method": "ocr_pytesseract",
+    "pages_searched": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44
+    ],
+    "extracted_at": "2026-01-14T18:18:36.288045Z",
+    "document_page_count": 57,
+    "avg_chars_per_page": 0.0,
+    "error": "No CIC 36 form found in document",
+    "ocr_confidence": "unknown",
+    "processing_time": 83.396
+  }
+}

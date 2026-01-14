@@ -1,0 +1,69 @@
+{
+  "company_number": "12716495",
+  "incorporation_date": null,
+  "document_type": "scanned",
+  "extraction_status": "success",
+  "section_a": {
+    "beneficiaries": "The children of Kent"
+  },
+  "section_b": {
+    "activities": [
+      {
+        "activity": "It think Activities How Online tutoring The community by qualified We will deliver children from virtual platform. As well as community If the company makes any surplus it will be The purchasing of ICT for disadvantaged Possibly set up as a permanent charitable (Please continue",
+        "description": "Academy C.i.C — ) will benefit by receiving free online tutoring teachers through the summer holidays 2020. Mathematics and English sessions to KS1-KS4 the 27\" July to the August 2020 using a providing ‘showcase lessons’ using high profile figures. used for... children in Kent so they can access online learning. foundation — if need is identified. on separate sheet if necessary.)"
+      }
+    ],
+    "company_differs": "",
+    "surplus_use": "The purchasing of ICT for disadvantaged children in Kent so they can access online learning. Possibly set up as a permanent charitable foundation — if need is identified."
+  },
+  "extraction_metadata": {
+    "source_file": "12716495.pdf",
+    "cic36_page": null,
+    "cic36_pages_found": [],
+    "location_confidence": "low",
+    "extraction_method": "ocr_pytesseract_layout",
+    "pages_searched": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      35,
+      36,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34
+    ],
+    "extracted_at": "2026-01-14T18:04:37.931153Z",
+    "document_page_count": 36,
+    "avg_chars_per_page": 0.0,
+    "ocr_confidence": "medium",
+    "processing_time": 106.709
+  }
+}

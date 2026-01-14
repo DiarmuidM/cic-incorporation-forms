@@ -1,0 +1,66 @@
+{
+  "company_number": null,
+  "incorporation_date": null,
+  "document_type": "scanned",
+  "extraction_status": "success",
+  "section_a": {
+    "beneficiaries": "the Thurso and surrounding Highland Communities"
+  },
+  "section_b": {
+    "activities": [
+      {
+        "activity": "BUILDING IS SAFE THURSO, KW147HF. COMMUNITY WILL USE THIS BEAUTIFUL THE COMPANY WILL CHANGE | THE COMMUNITY THE BUILDINGS USE TO AN | ALL WEATHER INDOOR SPORTS FACILITY. | MEMBERSHIP WITH WE WILL SET UP AN ALL THE COMMUNITY SKILL LEVELS SKATING FACILITY, ROCK WALL CLIMBING AS WELL AS VARIOUS OTHER INDOOR SPORTS RECREATIONS. If the company makes any surplus it will be used for community such as an art center within the st.",
+        "description": "activities will benefit the community, or detail as possible to your proposed company is eligible to useful if you were to explain how you ..) CHURCH IS A B LISTED BUILDING THAT TO THE PUBLIC FOR OVER 20 YEARS. RESTORATIONS ARE MADE AND THE FOR THE PUBLIC TO ENTER THE BENEFIT BY BEING ABLE TO ONCE AGAIN BUILDING. WILL BENEFIT BY HAVING ACCESS TO AN SPORTS FACILITY. WE WILL SET UP A A SLIDING SCALE FEE SO EVERYONE IN HAS ACCESS. creating other activities for the Andrews church building."
+      }
+    ],
+    "company_differs": "",
+    "surplus_use": "creating other activities for the community such as an art center within the st. Andrews church building."
+  },
+  "extraction_metadata": {
+    "source_file": "SC684829.pdf",
+    "cic36_page": null,
+    "cic36_pages_found": [],
+    "location_confidence": "low",
+    "extraction_method": "ocr_pytesseract_layout",
+    "pages_searched": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33
+    ],
+    "extracted_at": "2026-01-14T18:17:12.505903Z",
+    "document_page_count": 33,
+    "avg_chars_per_page": 0.0,
+    "ocr_confidence": "medium",
+    "processing_time": 96.575
+  }
+}
